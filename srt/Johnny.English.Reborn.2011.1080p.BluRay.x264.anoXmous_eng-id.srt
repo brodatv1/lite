@@ -1,0 +1,4419 @@
+0
+00:00:04,000 --> 00:00:12,500
+{\ pindahkan (10,10,190,230,100,400) \ fad (0,1000) \ fscx25 \ fscy25 \ t (0,6000, \ fscx125 \ fscy125) \ candH000000
+
+1
+00:00:13,501 --> 00:00:26,202
+{\ pindah (400,10,190,270,100,400) \ iseng (0,1000) \ fscx25 \ fscy25 \ t (0,6000, \ fscx125 \ fscy125) \ candHFF0000
+
+
+1
+00:00:40,073 --> 00:00:41,518
+(PINTU TERBUKA)
+
+2
+00:00:43,143 --> 00:00:44,645
+(PINTU TUTUP)
+
+3
+00:00:44,978 --> 00:00:46,548
+(LANGKAH KAKI)
+
+4
+00:01:03,163 --> 00:01:04,938
+AGEN 1: Johnny English.
+
+5
+00:01:07,367 --> 00:01:10,246
+AGEN 2: Lima tahun lalu,
+dia adalah agen teratas kami.
+
+6
+00:01:10,571 --> 00:01:13,882
+AGEN 1: Ya. Mengalihkan pandangannya dari bola
+di Mozambik.
+
+7
+00:01:20,047 --> 00:01:21,082
+(Mendesah)
+
+8
+00:01:28,288 --> 00:01:30,290
+Apakah harus dia?
+
+9
+00:01:30,390 --> 00:01:33,098
+Dia satu-satunya orang yang akan kita ajak bicara.
+
+10
+00:01:35,929 --> 00:01:37,931
+AGEN 1: Jadi dimana dia?
+
+11
+00:01:51,244 --> 00:01:52,723
+(MONKS BERTERIAK)
+
+12
+00:02:07,628 --> 00:02:12,600
+WANG: Anda datang ke sini
+untuk melupakan hidupmu yang memalukan.
+
+13
+00:02:13,667 --> 00:02:20,642
+Tapi jalan yang harus Anda tempuh menuju kehidupan baru
+tidak akan mudah, bahasa Inggris.
+
+14
+00:02:21,975 --> 00:02:23,977
+(MONK GRUNTING)
+
+15
+00:02:26,079 --> 00:02:33,088
+<i> WANG: Tujuan kita di sini sederhana.
+Untuk memperkuat apa yang lemah. </i>
+
+16
+00:02:35,622 --> 00:02:38,535
+<i> Persiapkan yang lembut. </i>
+
+17
+00:02:38,792 --> 00:02:40,635
+(Berteriak)
+
+18
+00:02:52,172 --> 00:02:55,381
+<i> WANG: Ini akan memakan waktu. </i>
+
+19
+00:02:56,143 --> 00:02:58,054
+(Merintih)
+
+20
+00:03:00,180 --> 00:03:05,027
+Pikiran harus menguasai tubuh.
+
+21
+00:03:07,954 --> 00:03:13,529
+<i> Pikiran yang kuat dapat memisahkan tubuh
+dari penderitaannya. </i>
+
+22
+00:03:16,363 --> 00:03:18,809
+Konsentrasi yang baik, bahasa Inggris.
+
+23
+00:03:19,900 --> 00:03:23,370
+Maaf? (EXCLAIMS) Hot! Panas! Panas! Panas!
+
+24
+00:03:27,808 --> 00:03:30,049
+<i> WANG: Kamu tidak muda. </i>
+
+25
+00:03:31,645 --> 00:03:36,219
+<i> Tapi seiring bertambahnya usia datang kebijaksanaan. </i>
+
+26
+00:03:37,384 --> 00:03:38,419
+(Berteriak)
+
+27
+00:03:53,433 --> 00:03:55,174
+(DENGKUR)
+
+28
+00:03:56,336 --> 00:04:00,045
+<i> WANG: Ketika pikiran
+adalah penguasa tubuh, </i>
+
+29
+00:04:00,941 --> 00:04:03,751
+<i> kau akan menjadi pejuang sekali lagi. </i>
+
+30
+00:04:04,911 --> 00:04:05,946
+(YELLS)
+
+31
+00:04:06,613 --> 00:04:08,786
+(MONKS CHEERING)
+
+32
+00:04:10,951 --> 00:04:13,864
+BAHASA INGGRIS: Guru, apa takdir saya?
+
+33
+00:04:15,756 --> 00:04:19,761
+Saya berhubungan dengan kekuatan yang lebih tinggi.
+
+34
+00:04:27,901 --> 00:04:28,936
+(KOMPUTER BUNYI)
+
+35
+00:04:29,736 --> 00:04:35,243
+MI7 menginginkanmu
+penerbangan pertama kembali ke London
+
+36
+00:04:41,148 --> 00:04:45,255
+Guru, apakah saya siap?
+
+37
+00:04:47,788 --> 00:04:48,892
+Tidak.
+
+38
+00:04:51,124 --> 00:04:53,627
+Kursi dekat jendela atau lorong?
+
+39
+00:05:48,615 --> 00:05:50,959
+RECEPTIONIST 1: Harap tunggu sebentar.
+Selamat pagi Pak.
+
+40
+00:05:51,017 --> 00:05:53,361
+RECEPTIONIST 2:
+Toshiba British Intelligence.
+
+41
+00:05:54,020 --> 00:05:56,967
+Untuk produk elektronik tekan satu.
+Untuk berbicara dengan agen, tekan dua.
+
+42
+00:05:58,859 --> 00:06:01,339
+Tentu, Tuan.
+Bisakah saya mengarahkan Anda ke situs web kami?
+
+43
+00:06:01,394 --> 00:06:04,898
+www.spyingforyou.gov.uk.
+
+44
+00:06:04,998 --> 00:06:06,568
+Toshiba British Intelligence.
+
+45
+00:06:07,133 --> 00:06:08,578
+Selamat pagi Pak. Dapatkah saya membantu Anda?
+
+46
+00:06:09,035 --> 00:06:10,639
+Johnny English.
+
+47
+00:06:10,737 --> 00:06:12,216
+RECEPTIONIST: Pegasus sedang menunggu Anda.
+
+48
+00:06:12,973 --> 00:06:14,043
+Lihat ke kamera.
+
+49
+00:06:20,814 --> 00:06:21,986
+Jangan tersenyum.
+
+50
+00:06:26,887 --> 00:06:30,232
+Pamela Thornton, Kepala Ml?
+
+51
+00:06:30,423 --> 00:06:32,164
+Johnny English.
+
+52
+00:06:32,592 --> 00:06:33,832
+Silahkan duduk.
+
+53
+00:06:35,996 --> 00:06:38,738
+Anda telah pergi untuk beberapa waktu, bahasa Inggris.
+
+54
+00:06:39,599 --> 00:06:42,011
+Tapi Anda belum dilupakan.
+
+55
+00:06:42,836 --> 00:06:44,611
+- BAHASA INGGRIS: Ayo.
+- (YOWLS)
+
+56
+00:06:45,071 --> 00:06:49,076
+Orang-orang di sini sering membicarakannya
+petualangan Anda di Mozambik.
+
+57
+00:06:52,345 --> 00:06:55,690
+Nah, Ml? telah berkembang pesat sejak saat itu
+
+58
+00:06:55,749 --> 00:06:59,959
+Senjata, mobil cepat,
+dan chauvinisme sedang menuju ke luar.
+
+59
+00:07:00,353 --> 00:07:02,026
+(ANGIN BERTIUP)
+
+60
+00:07:02,522 --> 00:07:05,128
+Terus terang, saya tidak ingin melihat Anda kembali.
+
+61
+00:07:05,358 --> 00:07:08,202
+Kamu segalanya
+Saya datang ke layanan ini untuk berubah.
+
+62
+00:07:08,962 --> 00:07:11,374
+- Tapi tanganku terikat.
+- (CAT MEOWS)
+
+63
+00:07:11,464 --> 00:07:15,207
+Dan ada kalanya seseorang
+harus melawan penilaian yang lebih baik.
+
+64
+00:07:17,637 --> 00:07:19,116
+Kami memiliki situasi.
+
+65
+00:07:21,308 --> 00:07:22,878
+Memang.
+
+66
+00:07:25,211 --> 00:07:28,317
+Ada kucing yang baik. Ada kucing yang baik.
+
+67
+00:07:31,484 --> 00:07:34,124
+Ada vagina yang bagus. Siapa wanita yang baik?
+
+68
+00:07:34,220 --> 00:07:36,564
+- Saya terkesan.
+- Siapa wanita yang baik?
+
+69
+00:07:36,656 --> 00:07:39,136
+Philby tidak pernah membiarkan orang asing menjemputnya.
+
+70
+00:07:39,225 --> 00:07:42,069
+Aku sangat paham
+dengan kerajaan hewan.
+
+71
+00:07:42,228 --> 00:07:47,143
+(MEOWING) Ada kucing yang baik. Aku tahu,
+Aku tahu. Siapa yang cantik? Siapa yang cantik?
+
+72
+00:07:48,635 --> 00:07:49,909
+WHO...
+
+73
+00:07:50,070 --> 00:07:51,071
+(CAT MURRING)
+
+74
+00:07:53,573 --> 00:07:57,487
+Kami semua menyenangkan.
+
+75
+00:07:59,079 --> 00:08:03,084
+Kate Sumner, psikolog perilaku kami.
+
+76
+00:08:03,249 --> 00:08:04,751
+Saya telah mendengar banyak tentang Anda.
+
+77
+00:08:04,851 --> 00:08:06,694
+Laporan yang bersinar, saya percaya.
+
+78
+00:08:07,420 --> 00:08:08,990
+Katakan padaku, Ms Sumner,
+
+79
+00:08:09,189 --> 00:08:13,262
+apa sebenarnya yang dilakukannya
+seorang psikolog perilaku lakukan?
+
+80
+00:08:13,326 --> 00:08:17,706
+Pantau perilaku yang dapat diamati
+untuk tanda-tanda psikologi internal.
+
+81
+00:08:19,199 --> 00:08:20,610
+Kami membaca orang.
+
+82
+00:08:21,601 --> 00:08:26,107
+Yah, kapan-kapan kita harus berkumpul.
+Saya pikir Anda akan menemukan saya pembalik halaman yang nyata.
+
+83
+00:08:26,840 --> 00:08:27,875
+(Mendengus)
+
+84
+00:08:35,615 --> 00:08:36,685
+Ah.
+
+85
+00:08:39,719 --> 00:08:43,394
+Jadi, Pegasus, situasi ini.
+
+86
+00:08:44,124 --> 00:08:48,630
+Mantan agen CIA Titus Fisher
+telah menghubungi kami dari Hong Kong.
+
+87
+00:08:48,962 --> 00:08:51,966
+Dia memiliki kecerdasan dalam suatu plot
+untuk membunuh Perdana Menteri China
+
+88
+00:08:52,032 --> 00:08:54,069
+pada pembicaraan Anglo-Cina minggu depan.
+
+89
+00:08:55,135 --> 00:08:57,638
+Kami membutuhkan Anda untuk pergi dan mencari tahu
+apa yang dia punya.
+
+90
+00:08:57,904 --> 00:09:00,817
+Nah, kalau begitu, Pegasus, hitung aku.
+
+91
+00:09:00,907 --> 00:09:01,977
+(CAT YOWLS)
+
+92
+00:09:03,810 --> 00:09:06,814
+Agen Satu akan menemuimu di bawah.
+
+93
+00:09:09,649 --> 00:09:10,719
+(ORANG TERTAWA)
+
+94
+00:09:10,817 --> 00:09:14,560
+AMBROSE: Jadi, saya baru saja memanjat dinding,
+meniup seluruh tempat kerajaan datang.
+
+95
+00:09:14,654 --> 00:09:18,158
+Satu jam kemudian saya duduk di bar
+dengan Rusia Putih di tangan saya.
+
+96
+00:09:18,558 --> 00:09:21,402
+Siapa yang sangat cantik juga, aku bisa memberitahumu.
+
+97
+00:09:21,494 --> 00:09:22,598
+Simon.
+
+98
+00:09:25,832 --> 00:09:27,277
+Halo, Johnny!
+
+99
+00:09:29,536 --> 00:09:31,038
+Simon,
+
+100
+00:09:31,504 --> 00:09:33,711
+kamu terlihat luar biasa.
+Tapi, kemudian, Anda selalu melakukannya.
+
+101
+00:09:34,107 --> 00:09:36,109
+Selamat datang kembali. Sudah berapa lama?
+
+102
+00:09:36,209 --> 00:09:40,419
+Saya tidak tahu. Lima tahun, tiga bulan
+dan enam hari, atau sesuatu.
+
+103
+00:09:40,513 --> 00:09:42,015
+Tentu saja, Mozambik.
+
+104
+00:09:45,285 --> 00:09:48,198
+Itu adalah bola-up dengan ceri di atasnya.
+
+105
+00:09:48,555 --> 00:09:51,058
+Ayo, mari kita selesaikan.
+
+106
+00:09:52,225 --> 00:09:54,034
+Selamat datang di lemari mainan.
+
+107
+00:10:03,803 --> 00:10:06,545
+Saya tidak akan meninggalkan Anda nomor saya.
+
+108
+00:10:06,639 --> 00:10:07,743
+Anda tahu Patch.
+
+109
+00:10:07,874 --> 00:10:10,718
+Patch Quartermain, pria itu sendiri.
+
+110
+00:10:10,810 --> 00:10:11,811
+Inggris.
+
+111
+00:10:11,911 --> 00:10:13,049
+Kumohon, jangan bangun.
+
+112
+00:10:13,246 --> 00:10:14,486
+Tidak ada kesempatan untuk itu.
+
+113
+00:10:15,381 --> 00:10:16,382
+(DERING LOGAM)
+
+114
+00:10:16,583 --> 00:10:20,087
+Kehilangan mereka saat menguji aksen ledakan B-6.
+
+115
+00:10:20,220 --> 00:10:22,723
+Oh, maafkan aku. Apa kabar?
+
+116
+00:10:23,389 --> 00:10:24,595
+Harus yang ini, aku takut.
+
+117
+00:10:25,558 --> 00:10:28,596
+Kalah ini karena bel pintu D-10. (Terkekeh)
+
+118
+00:10:28,728 --> 00:10:32,403
+Ah. Senang rasanya melihat apa yang tersisa dari Anda
+
+119
+00:10:32,932 --> 00:10:36,846
+(Terkekeh) Sebenarnya ini cukup menyenangkan.
+Kecepatan tertinggi 60 mph,
+
+120
+00:10:36,936 --> 00:10:40,110
+dan saya berhasil menambahkan hal yang aneh.
+
+121
+00:10:43,910 --> 00:10:45,753
+Cara ini. Aku tidak punya waktu seharian.
+
+122
+00:10:46,513 --> 00:10:47,924
+Jangan!
+
+123
+00:10:49,516 --> 00:10:51,462
+QUARTERMAIN:
+Maukah kamu berhenti ikut campur, bahasa Inggris?
+
+124
+00:10:51,584 --> 00:10:52,995
+Ini dia.
+
+125
+00:10:53,086 --> 00:10:55,760
+INGGRIS: Ah, Rolls-Royce Phantom.
+
+126
+00:10:56,089 --> 00:10:59,195
+Benar-benar Rolls-Royce mobil.
+
+127
+00:10:59,292 --> 00:11:02,865
+Pelapisan armor, semua lonceng dan peluit.
+Ucapkan "Bonnet".
+
+128
+00:11:03,863 --> 00:11:05,638
+<i> - Bonnet.
+- SUARA OTOMATIS: Perintah diterima. </i>
+
+129
+00:11:07,300 --> 00:11:09,302
+Aktivasi suara hanya mengenali Anda.
+
+130
+00:11:10,303 --> 00:11:12,305
+Gulungan telah dipasang
+salah satu mesin eksperimental mereka.
+
+131
+00:11:12,438 --> 00:11:16,614
+Mesin V16 sembilan liter. Seperti angin.
+
+132
+00:11:17,110 --> 00:11:19,386
+Hanya lebih tenang.
+
+133
+00:11:20,446 --> 00:11:21,720
+Cantik.
+
+134
+00:11:21,948 --> 00:11:22,983
+QUARTERMAIN: Teruskan!
+
+135
+00:11:23,449 --> 00:11:25,622
+Inilah yang akan Anda bawa ke Hong Kong.
+
+136
+00:11:26,486 --> 00:11:28,796
+- Ah iya.
+- Penerima satelit,
+
+137
+00:11:28,888 --> 00:11:32,131
+alat pelacak, permen karet Semtex.
+
+138
+00:11:32,225 --> 00:11:33,329
+Sekarang, apa yang baru saja saya katakan?
+
+139
+00:11:34,961 --> 00:11:35,962
+(PENGECUALIAN)
+
+140
+00:11:36,129 --> 00:11:37,164
+(TEKNISI TERTAWA)
+
+141
+00:11:37,463 --> 00:11:38,533
+(MENGIKU)
+
+142
+00:11:38,631 --> 00:11:40,975
+Itu adalah senjata panah digital P-two baru.
+
+143
+00:11:41,167 --> 00:11:47,243
+Tuan-tuan. Bolehkah saya mengingatkan Anda semua MI7 itu
+senjata pilihan saat ini adalah dialog?
+
+144
+00:11:48,174 --> 00:11:50,654
+Kami sangat senang jika Anda bersikap tegas, Pegasus.
+
+145
+00:11:50,810 --> 00:11:51,811
+(Terkekeh)
+
+146
+00:11:54,347 --> 00:11:56,657
+Bahasa Inggris, Anda pergi ke Hong Kong malam ini.
+
+147
+00:11:57,317 --> 00:11:58,819
+Fisher akan menghubungi Anda di sana.
+
+148
+00:11:59,485 --> 00:12:02,489
+Untuk memastikan protokol diperhatikan,
+
+149
+00:12:03,489 --> 00:12:06,026
+Saya mengirim seseorang dengan Anda.
+
+150
+00:12:06,159 --> 00:12:07,194
+Agen Tucker.
+
+151
+00:12:11,030 --> 00:12:13,533
+Ini akan menjadi suatu kehormatan, tuan.
+
+152
+00:12:13,666 --> 00:12:16,670
+Baiklah, itu akan bagus
+agar seseorang membawa tas.
+
+153
+00:12:17,437 --> 00:12:21,442
+Anda membuat bahan tertawaan
+keluar dari layanan ini sekali, bahasa Inggris.
+
+154
+00:12:21,608 --> 00:12:24,350
+Tidak di jam tangan saya. Bersih'?
+
+155
+00:12:24,944 --> 00:12:26,218
+(DALAM SUARA PITCHED TINGGI)
+Sebening kristal, Pegasus.
+
+156
+00:12:28,214 --> 00:12:29,522
+(MEMBERSIHKAN LENGKAP)
+
+157
+00:12:32,352 --> 00:12:33,353
+(Erangan)
+
+158
+00:12:34,520 --> 00:12:36,397
+Sama seperti dulu, eh, Johnny?
+
+159
+00:12:36,522 --> 00:12:38,934
+Saya pergi ke Swiss.
+Mari mengejar saat Anda kembali.
+
+160
+00:12:39,025 --> 00:12:41,130
+(DALAM SUARA PITCHED TINGGI)
+Tidak ada yang lebih saya inginkan, Simon.
+
+161
+00:12:41,694 --> 00:12:43,537
+(BAHASA INGGRIS CLEARING THROAT)
+
+162
+00:12:44,063 --> 00:12:47,374
+Apakah ada yang melihat
+permen pelega tenggorokan yang bisa mengubah suara?
+
+163
+00:12:49,769 --> 00:12:50,873
+Um ...
+
+164
+00:12:52,105 --> 00:12:55,552
+Tidak tidak.
+
+165
+00:13:19,565 --> 00:13:21,272
+Ayolah, Tucker.
+
+166
+00:13:27,073 --> 00:13:30,782
+Saya belum 21 sampai September, Pak.
+Saya tidak benar-benar diizinkan masuk.
+
+167
+00:13:30,910 --> 00:13:33,789
+Tucker, Anda adalah seorang agen yang bekerja
+Dinas Rahasia Yang Mulia.
+
+168
+00:13:33,913 --> 00:13:35,620
+Lakukan saja bagiannya.
+
+169
+00:13:48,828 --> 00:13:52,105
+Senilai sepuluh ribu dolar,
+kumohon, sayangku.
+
+170
+00:13:53,499 --> 00:13:55,274
+Terima kasih.
+
+171
+00:13:56,269 --> 00:13:58,340
+Dan tanda terima.
+
+172
+00:14:05,011 --> 00:14:07,321
+Waspada untuk kontak, Tucker.
+
+173
+00:14:07,780 --> 00:14:11,227
+Kami sedang mencari
+seorang pria Tionghoa berkacamata.
+
+174
+00:14:11,317 --> 00:14:13,160
+Apakah Anda ingin minuman lagi, Pak?
+
+175
+00:14:15,021 --> 00:14:18,468
+Pak, orang Cina berkacamata.
+
+176
+00:14:20,960 --> 00:14:22,462
+- Satu bir lagi.
+- Tidak ada taruhan lagi.
+
+177
+00:14:24,297 --> 00:14:26,299
+Kontak.
+
+178
+00:14:33,806 --> 00:14:34,978
+Malam.
+
+179
+00:14:54,727 --> 00:14:57,936
+Nenekmu sakit.
+
+180
+00:14:58,030 --> 00:14:59,168
+Apa?
+
+181
+00:15:00,166 --> 00:15:03,545
+Nenekmu sakit.
+
+182
+00:15:03,669 --> 00:15:06,673
+Nah, dia sudah mati. Begitulah sakitnya dia.
+
+183
+00:15:13,212 --> 00:15:14,247
+(Terengah-engah)
+
+184
+00:15:17,350 --> 00:15:18,795
+Apakah dia sudah mati, Pak?
+
+185
+00:15:18,885 --> 00:15:20,865
+- Iya.
+- (WANITA BERTERIAK)
+
+186
+00:15:48,748 --> 00:15:50,386
+<i> - Hai, Bu.
+- PEREMPUAN: Ada apa? </i>
+
+187
+00:15:50,450 --> 00:15:52,259
+Tidak tidak tidak tidak. Tidak ada masalah, tidak.
+
+188
+00:15:53,419 --> 00:15:56,559
+Aku merasa agak lucu tadi malam, tapi sekarang aku baik-baik saja.
+
+189
+00:16:00,293 --> 00:16:01,601
+Jadi, apa yang kamu punya untuk kami?
+
+190
+00:16:02,962 --> 00:16:09,072
+Orang-orang di balik komplotan untuk membunuh Xiang Ping,
+Perdana Menteri Cina. Sebuah grup bernama Vortex.
+
+191
+00:16:09,302 --> 00:16:10,406
+Tidak pernah mendengar tentang mereka.
+
+192
+00:16:10,503 --> 00:16:13,074
+Pembunuh bayaran. Yang terbaik.
+
+193
+00:16:20,179 --> 00:16:23,285
+Ayo, Fisher, aku butuh nama,
+Saya butuh bukti!
+
+194
+00:16:28,488 --> 00:16:30,695
+Vortex memiliki senjata rahasia.
+
+195
+00:16:31,257 --> 00:16:32,531
+Ini adalah salah satu dari tiga kunci itu,
+
+196
+00:16:32,792 --> 00:16:35,671
+saat digunakan bersama, dapatkan akses ke sana.
+
+197
+00:16:35,761 --> 00:16:38,799
+Tanpa ini, Vortex selesai
+
+198
+00:16:39,265 --> 00:16:41,302
+Bagaimana Anda mendapatkannya?
+
+199
+00:16:41,367 --> 00:16:43,779
+Ini milikku.
+
+200
+00:16:43,936 --> 00:16:45,176
+Maafkan saya?
+
+201
+00:16:45,471 --> 00:16:48,384
+Vortex adalah kita bertiga.
+
+202
+00:16:52,812 --> 00:16:54,792
+BAHASA INGGRIS: Ayo, Fisher
+
+203
+00:16:54,981 --> 00:17:00,863
+<i> Kamu, pembunuh bayaran?
+Anda tidak bisa menabrak pintu gudang dengan pisang </i>
+
+204
+00:17:01,721 --> 00:17:04,224
+Dan untuk Vortex,
+
+205
+00:17:04,323 --> 00:17:07,065
+jelas Anda mendapatkan namanya
+dari sekotak bubuk pencuci.
+
+206
+00:17:07,627 --> 00:17:09,368
+Vortex berada di Mozambik.
+
+207
+00:17:11,631 --> 00:17:12,701
+Apa?
+
+208
+00:17:12,865 --> 00:17:15,368
+Ya? Betulkah?
+
+209
+00:17:16,402 --> 00:17:19,178
+Bungkam? Bu, Bu, aku harus pergi. Harus pergi.
+
+210
+00:17:19,839 --> 00:17:21,716
+FISHER: Kami semua ada di sana
+hari itu, Johnny-boy.
+
+211
+00:17:21,908 --> 00:17:23,546
+- Permisi. Pak!
+- Apa?
+
+212
+00:17:26,579 --> 00:17:27,683
+Pak, ada ...
+
+213
+00:17:28,014 --> 00:17:30,426
+Cepat ayo! Ayolah!
+
+214
+00:17:42,995 --> 00:17:44,668
+Nyonya, biarkan saya membantu Anda dengan itu.
+
+215
+00:17:44,864 --> 00:17:47,606
+Sini. Ya, saya pikir Anda harus mengosongkan area tersebut.
+
+216
+00:17:47,700 --> 00:17:50,681
+ada beberapa
+orang yang sangat berbahaya tentang.
+
+217
+00:17:50,736 --> 00:17:52,079
+Ini dia.
+
+218
+00:17:57,777 --> 00:17:58,847
+(TERIAKAN)
+
+219
+00:18:00,179 --> 00:18:02,386
+Kejar dia, Tucker, kejar dia!
+
+220
+00:18:11,591 --> 00:18:13,127
+Apa?
+
+221
+00:18:26,439 --> 00:18:27,645
+TUCKER: Pak! Pak!
+
+222
+00:18:27,740 --> 00:18:29,413
+Sebelah sini, Tucker!
+
+223
+00:18:29,475 --> 00:18:30,783
+Saya kehilangan dia, Pak.
+
+224
+00:18:30,876 --> 00:18:33,117
+Lihat apa yang kutemukan.
+
+225
+00:18:39,251 --> 00:18:40,423
+TUCKER: Lewat sini, Pak! Cara ini!
+
+226
+00:18:41,220 --> 00:18:44,463
+Anda turun ke jalan. Saya akan mengambil atap.
+
+227
+00:19:20,826 --> 00:19:25,673
+<i> WANG: Kamu tidak muda.
+Tapi seiring bertambahnya usia datanglah kebijaksanaan. </i>
+
+228
+00:19:32,972 --> 00:19:34,007
+(YELLS)
+
+229
+00:20:42,374 --> 00:20:43,409
+(BERBICARA MAN DARIN)
+
+230
+00:20:46,946 --> 00:20:49,256
+Serahkan, simpanse.
+
+231
+00:21:25,818 --> 00:21:28,059
+(MUSIK LIFT BERMAIN)
+
+232
+00:21:52,812 --> 00:21:54,519
+Ayolah, Tucker.
+
+233
+00:21:55,181 --> 00:21:56,285
+Bisa saya bantu?
+
+234
+00:21:56,348 --> 00:21:58,760
+Saya memimpin kapal ini
+atas nama Yang Mulia.
+
+235
+00:21:59,952 --> 00:22:01,488
+Kanan-0, Komandan Sayap.
+
+236
+00:22:02,121 --> 00:22:03,691
+PEREMPUAN: Sungguh menyenangkan!
+
+237
+00:22:21,674 --> 00:22:24,484
+Sekarang, apa racunmu?
+Bisakah saya mendapatkan sesuatu?
+
+238
+00:22:26,312 --> 00:22:28,986
+Kami punya vodka, rum.
+
+239
+00:22:32,284 --> 00:22:34,389
+Keamanan Anda adalah prioritas kami.
+
+240
+00:22:35,120 --> 00:22:38,863
+Tapi Anda bisa membantu kami
+dengan membiasakan diri dengan selebaran ini.
+
+241
+00:22:41,493 --> 00:22:45,805
+Créme de menthe, sedikit pelabuhan,
+dan hanya itu, saya khawatir.
+
+242
+00:22:49,501 --> 00:22:50,844
+Saya Shirley.
+
+243
+00:22:51,203 --> 00:22:52,739
+Halo, Shirley.
+
+244
+00:22:56,375 --> 00:23:00,653
+BAHASA INGGRIS: Sedikit ke kiri, Shirley.
+Terima kasih.
+
+245
+00:23:02,014 --> 00:23:03,049
+(SHIRLEY terengah-engah)
+
+246
+00:23:05,851 --> 00:23:06,886
+(TERIAKAN)
+
+247
+00:23:42,922 --> 00:23:45,232
+Saya katakan, Komandan Sayap!
+
+248
+00:23:45,457 --> 00:23:46,527
+(BERBICARA MANDARIN)
+
+249
+00:24:24,630 --> 00:24:27,975
+- Permainan bagus, Pak! Permainan yang bagus!
+- Sama seperti gladiator!
+
+250
+00:24:28,734 --> 00:24:30,145
+(SEMUA EXCLAIM)
+
+251
+00:24:40,946 --> 00:24:42,016
+(SEMUA MENGERANG)
+
+252
+00:24:53,025 --> 00:24:56,029
+Ayolah. Taruh itu.
+
+253
+00:24:59,498 --> 00:25:00,602
+(MENGERANG TUCKER)
+
+254
+00:25:22,287 --> 00:25:24,961
+Bagus sekali, Pak! Permainan yang bagus!
+
+255
+00:25:45,177 --> 00:25:46,713
+Lebih banyak sampanye, sayangku.
+
+256
+00:25:46,812 --> 00:25:48,086
+Tentu, Tuan.
+
+257
+00:25:48,180 --> 00:25:50,421
+Tucker 'apakah kamu yakin
+kamu tidak ingin Shandy atau sesuatu?
+
+258
+00:25:50,516 --> 00:25:53,827
+Saya harus menyelesaikan laporan misi ini, Pak.
+
+259
+00:25:53,886 --> 00:25:56,526
+Dan Pegasus ingin melihat kita
+segera setelah kami mendarat.
+
+260
+00:25:57,056 --> 00:25:59,434
+Laporan misinya?
+
+261
+00:25:59,658 --> 00:26:01,865
+Oh, ayolah, Tucker. Hidup sedikit.
+
+262
+00:26:02,327 --> 00:26:05,672
+Anda harus belajar menikmati kesuksesan.
+
+263
+00:26:05,731 --> 00:26:07,506
+Bekerja keras,
+
+264
+00:26:08,434 --> 00:26:11,506
+bermain dengan serius. Bukankah itu benar ...
+
+265
+00:26:12,738 --> 00:26:13,842
+Barbara?
+
+266
+00:26:31,056 --> 00:26:33,593
+Vortex selesai
+
+267
+00:26:34,359 --> 00:26:36,032
+Tapi lebih baik lagi,
+
+268
+00:26:36,095 --> 00:26:39,804
+selama bertahun-tahun saya percaya apa yang terjadi
+di Mozambik adalah kesalahanku.
+
+269
+00:26:40,766 --> 00:26:44,737
+Sekarang saya menyadari itu hanya sebagian karena kesalahan saya.
+
+270
+00:26:45,370 --> 00:26:47,873
+Apa yang terjadi di Mozambik?
+
+271
+00:26:59,084 --> 00:27:03,897
+Permisi tuan. Kami datang untuk mendarat.
+Dapatkah saya menyimpan overhead itu untuk Anda?
+
+272
+00:27:03,956 --> 00:27:05,162
+Pasti.
+
+273
+00:27:07,726 --> 00:27:10,935
+Pak, saya tidak berpikir dia adalah "Susan."
+
+274
+00:27:11,296 --> 00:27:14,334
+Tapi kemudian Anda bukan ahli bahasa,
+apakah kamu, Tucker '?
+
+275
+00:27:14,433 --> 00:27:18,643
+Ini bukan "Susan," ini "Shoooshan."
+
+276
+00:27:18,804 --> 00:27:23,184
+Dari wilayah Xinzhou,
+kecuali jika saya sangat salah.
+
+277
+00:27:24,076 --> 00:27:25,783
+Terima kasih, Shoooshan.
+
+278
+00:27:40,425 --> 00:27:43,133
+Sekretaris asing.
+
+279
+00:27:43,195 --> 00:27:46,369
+Saya harap Anda punya sesuatu untuk kami, bahasa Inggris.
+
+280
+00:27:46,465 --> 00:27:48,604
+Perdana Menteri sangat prihatin.
+
+281
+00:27:48,667 --> 00:27:50,806
+BAHASA INGGRIS: Dia punya banyak alasan untuk itu.
+
+282
+00:27:51,136 --> 00:27:54,208
+Ada rencana untuk membunuh Perdana Menteri China.
+
+283
+00:27:54,306 --> 00:27:58,812
+Didalangi oleh sekelompok
+pembunuh kejam bernama Vortex.
+
+284
+00:27:59,811 --> 00:28:00,949
+Tuhan yang baik.
+
+285
+00:28:01,013 --> 00:28:04,017
+Bahaya, bagaimanapun, telah dihindari.
+
+286
+00:28:04,983 --> 00:28:08,362
+Sekarang kita punya ini.
+
+287
+00:28:14,626 --> 00:28:16,697
+- Inggris?
+- Sekarang, saya tahu apa yang akan Anda katakan,
+
+288
+00:28:17,296 --> 00:28:20,300
+itu benda yang cukup kecil
+
+289
+00:28:21,733 --> 00:28:25,909
+Yah, seringkali hal-hal kecil
+yang merupakan pukulan terbesar.
+
+290
+00:28:26,004 --> 00:28:29,679
+- Bagaimanapun, David membunuh Goliath dengan kerikil.
+- Pak.
+
+291
+00:28:30,542 --> 00:28:35,855
+Vortex yang perkasa telah terbunuh
+dengan memiliki kunci kecil ini.
+
+292
+00:29:00,372 --> 00:29:02,613
+Shoooshan.
+
+293
+00:29:03,875 --> 00:29:05,877
+Susan.
+
+294
+00:29:09,681 --> 00:29:12,252
+Kami mengerti, tapi Fisher berbicara.
+
+295
+00:29:14,920 --> 00:29:18,094
+Dimengerti. Kami akan berurusan dengan bahasa Inggris.
+
+296
+00:29:21,560 --> 00:29:24,439
+Anda punya lebih banyak pembersihan yang harus dilakukan.
+
+297
+00:29:26,632 --> 00:29:28,873
+Mummy, Mummy! Tuan Rhubarb ada di sini!
+
+298
+00:29:29,701 --> 00:29:33,945
+Izzie, sayang, kenapa tidak
+tunjukkan dia ke konservatori?
+
+299
+00:29:34,039 --> 00:29:35,211
+Aku akan bersamamu sebentar lagi.
+
+300
+00:29:35,274 --> 00:29:37,811
+Baik. Ayo, ayo, ayo pergi!
+
+301
+00:29:37,909 --> 00:29:39,820
+MR RHUBARB: Bolehkah?
+IZZIE: Cepatlah, Tuan Rhubarb
+
+302
+00:29:40,245 --> 00:29:44,455
+Mungkin ketika Anda telah menemukan kunci Anda,
+Anda akan menelepon saya.
+
+303
+00:29:44,549 --> 00:29:48,554
+PEGASUS: Saya sangat menyesal, Menteri Luar Negeri.
+Saya berharap memiliki lebih banyak untuk Anda.
+
+304
+00:29:50,155 --> 00:29:51,964
+BAHASA INGGRIS: Ya Tuhan.
+
+305
+00:29:53,992 --> 00:29:55,062
+(DENGKUR)
+
+306
+00:29:59,898 --> 00:30:01,639
+(WHIRRING PEMBERSIH VAKUM)
+
+307
+00:30:23,955 --> 00:30:25,935
+Pegasus! Aku mendapatkannya!
+
+308
+00:30:26,625 --> 00:30:27,695
+Ayo, kamu penyihir.
+
+309
+00:30:27,793 --> 00:30:28,828
+Inggris?
+
+310
+00:30:28,927 --> 00:30:32,465
+Dia berada di Hong Kong! Dia pembunuhnya!
+
+311
+00:30:32,597 --> 00:30:34,099
+Dia adalah ibuku!
+
+312
+00:30:36,601 --> 00:30:37,841
+Tidak bisakah dia menjadi keduanya?
+
+313
+00:30:40,772 --> 00:30:41,807
+(PENGECUALIAN)
+
+314
+00:30:42,441 --> 00:30:44,819
+Mummy, Mummy, apakah kamu baik-baik saja?
+
+315
+00:30:45,777 --> 00:30:47,814
+Biarkan saya membuatkan Anda secangkir teh.
+
+316
+00:30:50,816 --> 00:30:53,456
+- Anda akan baik-baik saja, Mummy.
+- Siapa pria itu?
+
+317
+00:30:54,019 --> 00:30:58,331
+Ya, saya pikir secangkir teh,
+itulah yang dibutuhkan.
+
+318
+00:31:03,628 --> 00:31:06,734
+Pegasus, saya benar-benar minta maaf.
+
+319
+00:31:06,832 --> 00:31:09,676
+Jangan minta maaf padaku. Minta maaf padanya.
+
+320
+00:31:21,380 --> 00:31:26,989
+Saya tidak bisa cukup meminta maaf, Nyonya Pegasus.
+
+321
+00:31:28,220 --> 00:31:31,667
+Itu adalah kasus sederhana dari kesalahan identitas,
+Saya takut.
+
+322
+00:31:32,391 --> 00:31:33,836
+Sekarang, saya benar-benar mengerti
+
+323
+00:31:33,892 --> 00:31:35,838
+betapa kesalnya kamu,
+tapi aku berharap mungkin ...
+
+324
+00:31:41,833 --> 00:31:42,903
+TUCKER: Pak!
+
+325
+00:31:43,235 --> 00:31:47,615
+Makanan! Itu dia!
+Itu pembunuh dari Hong Kong!
+
+326
+00:31:47,706 --> 00:31:50,448
+- Tidak, bukan dia, Pak.
+- Ini! Kali ini benar-benar dia!
+
+327
+00:31:50,542 --> 00:31:53,523
+- Bukan dia, Pak!
+- Ya itu!
+
+328
+00:32:01,019 --> 00:32:02,362
+BAHASA INGGRIS: Beri jalan!
+
+329
+00:32:02,854 --> 00:32:04,197
+Pak.
+
+330
+00:32:05,257 --> 00:32:07,362
+Dasar pembunuh bayaran!
+
+331
+00:32:09,528 --> 00:32:12,031
+IZZIE: Nenek! Apa yang dilakukannya?
+
+332
+00:32:12,764 --> 00:32:14,072
+BAHASA INGGRIS: Terima itu! Dan itu!
+
+333
+00:32:15,867 --> 00:32:17,710
+IZZIE: Hei! Hentikan.
+
+334
+00:32:18,370 --> 00:32:19,405
+(ANAK-ANAK BERTERIAK)
+
+335
+00:32:20,205 --> 00:32:21,240
+Inggris!
+
+336
+00:32:22,240 --> 00:32:24,720
+Aku mendapatkannya kali ini, Pegasus!
+
+337
+00:32:25,544 --> 00:32:29,082
+Ini adalah penyihir yang bekerja untuk Vortex!
+
+338
+00:32:29,214 --> 00:32:31,592
+Ingin lebih 'kamu wanita tua?
+
+339
+00:32:31,716 --> 00:32:33,457
+- Inggris!
+- Nenek!
+
+340
+00:32:44,062 --> 00:32:46,668
+Anda mempermalukan saya
+di depan Sekretaris Luar Negeri,
+
+341
+00:32:46,765 --> 00:32:50,235
+Anda kehilangan satu-satunya keunggulan kami di Vortex,
+dan kemudian kamu mencoba dan membunuh ibuku!
+
+342
+00:32:51,303 --> 00:32:52,577
+Dua kali!
+
+343
+00:32:53,572 --> 00:32:57,110
+Pegasus, kita punya petunjuk lain.
+Vortex berada di Mozambik!
+
+344
+00:32:57,242 --> 00:33:00,451
+Mereka bertanggung jawab
+atas kematian Presiden Chambal!
+
+345
+00:33:00,579 --> 00:33:04,584
+Tidak! Anda bertanggung jawab
+atas kematian Presiden Chambal.
+
+346
+00:33:08,420 --> 00:33:09,455
+(ANAK-ANAK TERTAWA)
+
+347
+00:33:16,294 --> 00:33:19,298
+Nah, Anda pasti memberi Tuan Rhubarb
+lari untuk uangnya.
+
+348
+00:33:21,166 --> 00:33:25,774
+Tetap saja, setidaknya kita mengenal Vortex
+berada di Mozambik.
+
+349
+00:33:27,439 --> 00:33:28,713
+Saat Anda memberi tahu Pegasus,
+
+350
+00:33:28,807 --> 00:33:32,016
+Anda menampilkan keempat indikator
+dari seseorang yang mengatakan yang sebenarnya.
+
+351
+00:33:40,285 --> 00:33:41,992
+MUSIM PANAS: Ini adalah aksi wajah
+sistem pengkodean.
+
+352
+00:33:43,622 --> 00:33:46,159
+Kamera berkecepatan tinggi
+rekam ekspresi mikro,
+
+353
+00:33:46,291 --> 00:33:47,827
+tidak terlihat dengan mata telanjang.
+
+354
+00:33:47,959 --> 00:33:50,166
+Ini mendeteksi apa yang kita sebut kebocoran emosional.
+
+355
+00:33:50,295 --> 00:33:54,175
+Ms Sumner, saya agen terlatih.
+Saya tidak "bocor".
+
+356
+00:33:54,566 --> 00:33:57,308
+Saya ingin membawa Anda kembali ke Mozambik.
+
+357
+00:33:57,502 --> 00:33:58,572
+(BIP)
+
+358
+00:33:58,670 --> 00:34:00,411
+Apakah itu benar-benar perlu?
+
+359
+00:34:02,741 --> 00:34:03,981
+MUSIM PANAS: Lihat ini.
+
+360
+00:34:05,744 --> 00:34:07,917
+<i> MUSIM PANAS DI TV:
+Saya ingin membawa Anda kembali ke Mozambik. </i>
+
+361
+00:34:10,749 --> 00:34:12,387
+SUMNER: Di sana.
+
+362
+00:34:12,484 --> 00:34:14,657
+Bisakah kita menyebut kebocoran itu?
+
+363
+00:34:14,986 --> 00:34:19,332
+Sekarang, mainkan bola.
+Saya mengambil risiko berada di sini setelah jam kerja.
+
+364
+00:34:19,925 --> 00:34:23,202
+Jika Vortex berada di Mozambik,
+mungkin Anda melihat sesuatu.
+
+365
+00:34:23,328 --> 00:34:26,207
+Aku akan membawamu kembali ke sana
+menggunakan hipnosis.
+
+366
+00:34:26,331 --> 00:34:29,778
+Bisa aja.
+Ampuni saya omong kosong zaman baru.
+
+367
+00:34:29,868 --> 00:34:32,872
+Tuan Bahasa Inggris 'tolong. Saya seorang profesional.
+
+368
+00:34:33,004 --> 00:34:34,415
+Saya tidak akan hanya menjentikkan jari
+
+369
+00:34:34,506 --> 00:34:38,352
+dan membuatmu mengatakan hal pertama
+yang muncul di kepala Anda.
+
+370
+00:34:38,443 --> 00:34:39,945
+Bantal montok.
+
+371
+00:34:40,045 --> 00:34:41,718
+Permisi?
+
+372
+00:34:41,846 --> 00:34:45,589
+Pikiran yang brilian. Wajah yang cantik.
+
+373
+00:34:45,684 --> 00:34:47,027
+Luar biasa.
+
+374
+00:34:47,686 --> 00:34:50,690
+Dan benar-benar di luar jangkauan saya.
+
+375
+00:34:53,124 --> 00:34:54,467
+Mmm.
+
+376
+00:34:56,528 --> 00:34:59,907
+Saya ingin membawa Anda kembali ke Mozambik.
+
+377
+00:35:04,869 --> 00:35:07,713
+Ceritakan apa yang terjadi, Johnny.
+Kamu dimana
+
+378
+00:35:08,807 --> 00:35:11,651
+<i> BAHASA INGGRIS: Presiden Chambal
+hari pelantikan. </i>
+
+379
+00:35:12,310 --> 00:35:15,052
+<i> MUSIM PANAS: Ya, Anda adalah kepala keamanan. </i>
+
+380
+00:35:17,716 --> 00:35:19,753
+<i> BAHASA INGGRIS: Semuanya berjalan dengan sempurna. </i>
+
+381
+00:35:19,884 --> 00:35:22,057
+<i> Hari ini kita mendaki gunung! </i>
+
+382
+00:35:22,220 --> 00:35:23,995
+MADELEINE: (Berbisik) Agen Inggris.
+
+383
+00:35:26,424 --> 00:35:29,894
+<i> CHAMBAL: Orang-orangnya
+telah berbicara, dan pesannya jelas. </i>
+
+384
+00:35:31,262 --> 00:35:33,401
+<i> Masa depan perdamaian dan kemakmuran! </i>
+
+385
+00:35:33,498 --> 00:35:36,672
+Pasokan listrik cadangan telah terputus.
+
+386
+00:35:38,903 --> 00:35:41,941
+Tidak, belum. Sudah dimatikan.
+
+387
+00:35:43,908 --> 00:35:45,945
+Apakah Anda tahu cara menyalakannya?
+
+388
+00:35:47,779 --> 00:35:49,918
+Saya harus kembali.
+
+389
+00:35:51,249 --> 00:35:54,253
+Nah, operasinya seperti ini
+selalu sulit.
+
+390
+00:35:54,352 --> 00:35:56,423
+Tapi itu sangat memuaskan
+ketika Anda mendapatkan hasil.
+
+391
+00:35:56,521 --> 00:35:59,331
+Presiden tidak bisa berada di tangan yang lebih aman.
+
+392
+00:35:59,424 --> 00:36:01,961
+<i> Masa depan adalah milik Mozambik! </i>
+
+393
+00:36:02,927 --> 00:36:04,099
+<i> Terima kasih. </i>
+
+394
+00:36:04,362 --> 00:36:05,534
+- (GUNSHOTS)
+- (ORANG BERTERIAK)
+
+395
+00:36:05,630 --> 00:36:07,940
+Kembang api sudah dimulai.
+
+396
+00:36:08,933 --> 00:36:11,140
+Suara kebebasan dan perayaan.
+
+397
+00:36:12,971 --> 00:36:14,473
+(MENGERIKAN)
+
+398
+00:36:18,777 --> 00:36:23,658
+Tenang, Johnny. Mudah. Kembali.
+Sebelum Jacuzzi, apa yang Anda lihat?
+
+399
+00:36:29,287 --> 00:36:30,789
+BAHASA INGGRIS: Ya.
+
+400
+00:36:31,823 --> 00:36:33,166
+Nelayan.
+
+401
+00:36:34,993 --> 00:36:37,303
+Di teras bersama dua orang lainnya.
+
+402
+00:36:37,395 --> 00:36:41,468
+MUSIM PANAS: Ya. Ketiga anggota Vortex
+ada di sana hari itu.
+
+403
+00:36:41,566 --> 00:36:44,911
+Siapa yang bisa kamu lihat?
+Siapa yang bisa kamu lihat, Johnny?
+
+404
+00:36:47,739 --> 00:36:50,686
+<i> BAHASA INGGRIS: Artem Karlenko. </i>
+
+405
+00:36:53,978 --> 00:36:56,481
+<i> PEGASUS: Artem Karlenko, agen ganda. </i>
+
+406
+00:36:56,581 --> 00:36:59,323
+<i> Direkrut oleh MI7 di Moskow. </i>
+
+407
+00:36:59,584 --> 00:37:02,656
+<i> Pensiun setelah kegemarannya
+membunuh orang mengancam penyamarannya. </i>
+
+408
+00:37:03,588 --> 00:37:05,659
+Lima tahun lalu, dia muncul di sini
+
+409
+00:37:06,324 --> 00:37:08,326
+sebagai Sergei Pudovkin.
+
+410
+00:37:08,426 --> 00:37:10,201
+Kaya, sangat kaya.
+
+411
+00:37:10,328 --> 00:37:12,399
+Anggota eksklusif
+Klub Golf Oakwood,
+
+412
+00:37:12,497 --> 00:37:13,874
+<i> dimana kau akan bertemu dengannya. </i>
+
+413
+00:37:13,998 --> 00:37:16,672
+Dia ada dalam kompetisi pertandingan, Pak.
+
+414
+00:37:16,768 --> 00:37:18,679
+Aku menjadikanmu lawannya hari ini.
+
+415
+00:37:22,240 --> 00:37:25,016
+Selesai, Pak.
+Anda dipesan sebagai Tuan Peter Adams.
+
+416
+00:37:27,612 --> 00:37:29,091
+Terima kasih, Tucker.
+
+417
+00:37:30,248 --> 00:37:35,027
+Jika Karlenko adalah Vortex,
+Aku ingin kamu membawanya masuk. Hidup.
+
+418
+00:38:00,478 --> 00:38:02,480
+Tuan Pussykin?
+
+419
+00:38:02,881 --> 00:38:06,624
+Pudovkin. Dan Anda pasti Tuan
+
+420
+00:38:09,053 --> 00:38:10,054
+Um ...
+
+421
+00:38:10,822 --> 00:38:12,392
+Adams.
+
+422
+00:38:12,724 --> 00:38:15,227
+Mobil yang indah, Tn. Adams.
+
+423
+00:38:15,560 --> 00:38:17,130
+Ah, Royce.
+
+424
+00:38:17,228 --> 00:38:18,298
+<i> SUARA OTOMATIS: Siap, Pak. </i>
+
+425
+00:38:19,063 --> 00:38:20,235
+Terima kasih.
+
+426
+00:38:20,899 --> 00:38:22,401
+Bolehkah kita?
+
+427
+00:38:23,067 --> 00:38:24,239
+Ayo pergi.
+
+428
+00:38:24,302 --> 00:38:25,747
+<i> SUARA OTOMATIS: Perintah diterima. </i>
+
+429
+00:38:27,138 --> 00:38:30,483
+Jadi, di bidang bisnis apa Anda,
+Tuan Adams?
+
+430
+00:38:30,575 --> 00:38:31,747
+Pudovkin.
+
+431
+00:38:32,644 --> 00:38:35,318
+Maaf. Ya, saya Tuan Adams, dan Anda Tuan ...
+
+432
+00:38:35,413 --> 00:38:37,916
+Siapa pun yang Anda katakan
+
+433
+00:38:38,016 --> 00:38:39,927
+- Nah ...
+- Berhenti!
+
+434
+00:38:42,754 --> 00:38:45,928
+Maaf, saya pikir saya telah melupakan sesuatu.
+
+435
+00:39:12,350 --> 00:39:13,795
+Sarung tangan, Pak?
+
+436
+00:39:15,286 --> 00:39:17,129
+Saya mungkin tidak tahu banyak tentang golf, Tucker,
+
+437
+00:39:17,188 --> 00:39:19,725
+tapi aku tahu bagaimana cara memegang tongkatnya.
+
+438
+00:39:46,217 --> 00:39:47,662
+Ditembak, Pak.
+
+439
+00:40:01,933 --> 00:40:05,403
+BAHASA INGGRIS: Jadi, bidang usaha apa
+apakah Anda masuk, Tuan Puddykin?
+
+440
+00:40:05,503 --> 00:40:08,575
+KARLENKO: Saya menghasilkan uang
+dalam bisnis pemindahan.
+
+441
+00:40:10,742 --> 00:40:15,191
+Seorang teman saya memiliki saham
+dalam bisnis kepindahan. Titus Fisher.
+
+442
+00:40:15,246 --> 00:40:17,954
+Anda belum menemukannya sama sekali?
+
+443
+00:40:18,917 --> 00:40:22,126
+Saya memperingatkan Anda, Tuan Adams,
+tidak tersesat ke kasar.
+
+444
+00:40:22,620 --> 00:40:25,032
+Anda masuk ke sana, Anda mungkin tidak akan pernah keluar.
+
+445
+00:40:25,089 --> 00:40:27,194
+Aku akan mengingatnya, Tuan Puddykin.
+
+446
+00:40:27,292 --> 00:40:30,102
+Pudovkin. Silahkan.
+
+447
+00:40:35,199 --> 00:40:36,200
+(BALL HITS)
+
+448
+00:40:36,367 --> 00:40:37,437
+(MAN GRUNTS)
+
+449
+00:40:43,942 --> 00:40:45,216
+Tembakan!
+
+450
+00:40:46,077 --> 00:40:48,717
+Seperti halnya teman saya Fisher, sebenarnya.
+
+451
+00:40:49,948 --> 00:40:51,655
+Di belakang.
+
+452
+00:40:53,818 --> 00:40:55,820
+Oleh pembersihnya, dari semua orang.
+
+453
+00:41:02,894 --> 00:41:05,101
+Tapi mereka tidak mengambil banyak.
+
+454
+00:41:05,763 --> 00:41:06,833
+Hanya sebuah kuncinya
+
+455
+00:41:14,772 --> 00:41:16,479
+Istirahat, dari kiri ke kanan, kurasa.
+
+456
+00:41:16,574 --> 00:41:17,780
+Terima kasih.
+
+457
+00:41:18,142 --> 00:41:19,177
+(BERBICARA RUSIA)
+
+458
+00:41:38,096 --> 00:41:39,131
+(Mendengus)
+
+459
+00:41:41,265 --> 00:41:42,767
+(STAMMERING) Di pepohonan.
+
+460
+00:41:46,704 --> 00:41:48,183
+Ayolah.
+
+461
+00:41:48,539 --> 00:41:50,109
+(KARLENKO mengerang)
+
+462
+00:41:50,174 --> 00:41:52,620
+- Ya Tuhan.
+- Dia tidak bisa mati. Dia tidak boleh mati.
+
+463
+00:41:52,677 --> 00:41:54,714
+BAHASA INGGRIS: Ayo keluarkan dia dari sini. Ayolah!
+Ayolah.
+
+464
+00:41:59,017 --> 00:42:00,121
+TUCKER: Dia tidak terlihat bagus, Pak.
+
+465
+00:42:01,319 --> 00:42:04,892
+Kami akan membawamu ke dokter. Kamu akan baik-baik saja.
+
+466
+00:42:06,724 --> 00:42:08,362
+Anda tahu bagaimana menerbangkan ini, Pak?
+
+467
+00:42:08,459 --> 00:42:10,700
+- Itu adalah bagian dari pelatihan dasar.
+- Baik.
+
+468
+00:42:10,795 --> 00:42:12,638
+Ini seperti mengendarai sepeda.
+
+469
+00:42:14,632 --> 00:42:16,168
+(TUCKER YELLING)
+
+470
+00:42:18,870 --> 00:42:21,476
+Iya. Semuanya kembali padaku.
+
+471
+00:42:22,306 --> 00:42:24,081
+(MENGECUALIKAN TUCKER)
+
+472
+00:42:43,261 --> 00:42:47,266
+Ini helikopter
+Hotel Golf Zulu Zulu Tango.
+
+473
+00:42:47,365 --> 00:42:50,778
+Kami memiliki korban di kapal.
+Minta panduan ke rumah sakit terdekat.
+
+474
+00:42:50,868 --> 00:42:52,176
+<i> MAN ON RADIO: Di mana lokasi Anda sebenarnya? </i>
+
+475
+00:42:52,236 --> 00:42:53,613
+Lokasi Kami? Lokasi?
+
+476
+00:42:54,238 --> 00:42:58,050
+Dia menembak sistem navigasi.
+Tunggu sebentar.
+
+477
+00:43:05,116 --> 00:43:06,186
+(CAR HONKING)
+
+478
+00:43:08,586 --> 00:43:11,430
+- Runstock.
+- Lokasi kami adalah Runstock.
+
+479
+00:43:11,522 --> 00:43:12,626
+<i> MAN ON RADIO: Berapa ketinggian Anda? </i>
+
+480
+00:43:12,723 --> 00:43:14,600
+Berapa ketinggian kita?
+
+481
+00:43:16,427 --> 00:43:18,464
+Sekitar 18 inci.
+
+482
+00:43:19,097 --> 00:43:21,577
+Halo? Halo?
+
+483
+00:43:24,302 --> 00:43:26,248
+Maaf. Aku akan pindah.
+
+484
+00:43:28,239 --> 00:43:29,877
+TUCKER: Sekarang apa, Pak?
+
+485
+00:43:29,941 --> 00:43:33,548
+BAHASA INGGRIS: Kita harus tetap berpegang pada jalan.
+Mari ikuti 1328.
+
+486
+00:43:33,611 --> 00:43:35,147
+Pasti ada rumah sakit di Dingham.
+
+487
+00:43:41,285 --> 00:43:42,389
+(Erangan KARLENKO)
+
+488
+00:43:42,453 --> 00:43:44,057
+Jaga dia, Tucker. Jaga dia.
+
+489
+00:43:47,925 --> 00:43:48,960
+(CAR HONKING)
+
+490
+00:43:50,928 --> 00:43:53,738
+- Saya pikir kita kehilangan dia, Pak.
+- Kita tidak bisa kehilangan dia, Tucker.
+
+491
+00:43:53,798 --> 00:43:57,439
+Dia satu-satunya pemimpin kita. Coba yang lain.
+
+492
+00:44:03,074 --> 00:44:06,578
+<i> TUCKER: (SINGING) Jangan menyerah pada kami, sayang </i>
+
+493
+00:44:06,644 --> 00:44:12,651
+<i> Tuhan tahu kita sudah sampai sejauh ini </i>
+
+494
+00:44:13,284 --> 00:44:14,922
+(VOKALISASI)
+
+495
+00:44:17,588 --> 00:44:23,834
+<i> KEDUA: (SINGING) Kami
+Malaikat dan pemimpi </i>
+
+496
+00:44:24,262 --> 00:44:26,037
+(KEDUA VOKALISASI)
+
+497
+00:44:27,365 --> 00:44:30,175
+<i> Jangan! menyerah pada kami, aku tahu </i>
+
+498
+00:44:30,768 --> 00:44:34,272
+<i> Kita masih bisa lewat </i>
+
+499
+00:44:42,813 --> 00:44:44,622
+(PRIA BERTERIAK)
+
+500
+00:44:50,154 --> 00:44:53,192
+TUCKER: Lihat, Pak! Ikuti ambulans itu!
+
+501
+00:44:53,291 --> 00:44:54,793
+Ide bagus.
+
+502
+00:45:05,403 --> 00:45:07,178
+TUCKER: Pak. Pak, cepat.
+
+503
+00:45:10,741 --> 00:45:13,187
+Karlenko. Karlenko!
+
+504
+00:45:20,384 --> 00:45:22,091
+Kunci kedua.
+
+505
+00:45:23,654 --> 00:45:28,569
+Vortex adalah KGB ...
+
+506
+00:45:29,427 --> 00:45:31,998
+- Iya.
+- CIA.
+
+507
+00:45:35,233 --> 00:45:37,577
+Iya? Iya?
+
+508
+00:45:42,073 --> 00:45:43,552
+MI7.
+
+509
+00:45:52,183 --> 00:45:57,132
+Luar biasa. Seorang vole di MI7.
+
+510
+00:45:59,757 --> 00:46:01,566
+Tahi lalat, Pak.
+
+511
+00:46:02,526 --> 00:46:03,869
+Apa?
+
+512
+00:46:04,295 --> 00:46:06,468
+Ada tahi lalat di MI7.
+
+513
+00:46:07,632 --> 00:46:09,703
+Ada tahi lalat dan tikus?
+
+514
+00:46:10,301 --> 00:46:13,748
+Tidak pak. Ada tahi lalat, bukan tikus.
+
+515
+00:46:14,472 --> 00:46:16,918
+Saya tidak setuju. Pasti ada vole.
+
+516
+00:46:16,974 --> 00:46:18,749
+Maksudku, kami tahu banyak.
+
+517
+00:46:18,809 --> 00:46:22,416
+Tapi maksudmu adalah
+mungkin ada tahi lalat juga.
+
+518
+00:46:23,080 --> 00:46:24,150
+(DADA TELEPON SELULER)
+
+519
+00:46:24,248 --> 00:46:25,454
+Pegasus.
+
+520
+00:46:26,917 --> 00:46:30,626
+Ada pertemuan di MI7
+dengan Perdana Menteri.
+
+521
+00:46:36,227 --> 00:46:40,004
+Dan di sini lagi, lihat ke bawah
+dan ke kiri, menunjukkan perbedaan pendapat.
+
+522
+00:46:40,097 --> 00:46:42,338
+Dengan Xiang Ping, semuanya tentang mata.
+
+523
+00:46:42,433 --> 00:46:45,141
+Terima kasih, Ms Sumner.
+Jika pembicaraan berlanjut, saya ingin Anda bergabung dengan kami.
+
+524
+00:46:46,737 --> 00:46:48,410
+Ya, Perdana Menteri.
+
+525
+00:46:49,740 --> 00:46:51,344
+Selamat malam, Tuan-tuan.
+
+526
+00:46:51,442 --> 00:46:52,853
+- Tuan Bahasa Inggris.
+- Ms Sumner.
+
+527
+00:46:55,613 --> 00:46:56,819
+Baik.
+
+528
+00:46:58,149 --> 00:47:02,461
+Jadi kapan Perdana Menteri
+akan memberkahi kita dengan kehadirannya?
+
+529
+00:47:02,820 --> 00:47:04,595
+Saya Perdana Menteri.
+
+530
+00:47:04,689 --> 00:47:06,635
+(SNORTS) Ya, Anda berharap.
+
+531
+00:47:17,301 --> 00:47:19,542
+Baiklah. Jadi kita semua disini.
+
+532
+00:47:20,504 --> 00:47:21,539
+(MEMBERSIHKAN LENGKAP)
+
+533
+00:47:22,173 --> 00:47:26,121
+Ini pembicaraan dengan China
+sangat penting.
+
+534
+00:47:26,177 --> 00:47:27,520
+Rogue slates di Asia Tenggara
+
+535
+00:47:27,611 --> 00:47:29,887
+telah mulai berkembang secara diam-diam
+senjata nuklir.
+
+536
+00:47:29,980 --> 00:47:32,859
+Sangat penting bagi kami untuk mendukung China.
+
+537
+00:47:32,950 --> 00:47:35,794
+Secara tradisional, Cina telah
+tahan terhadap kekhawatiran kami,
+
+538
+00:47:35,853 --> 00:47:38,129
+tapi saya percaya Xiang Ping,
+diberi kesempatan,
+
+539
+00:47:38,189 --> 00:47:41,830
+dapat dan akan membantu meredakan situasi ini.
+
+540
+00:47:41,959 --> 00:47:44,371
+SEKRETARIS ASING: Ya,
+dengan sikap pro-Baratnya,
+
+541
+00:47:44,462 --> 00:47:46,237
+itu pasti menawarkan kesempatan,
+
+542
+00:47:46,330 --> 00:47:50,301
+tapi pembicaraan tidak bisa dilanjutkan
+kecuali kita bisa menjamin keamanannya.
+
+543
+00:47:50,368 --> 00:47:52,405
+Saya yakin, dengan keamanan yang benar,
+bahwa kita bisa.
+
+544
+00:47:52,503 --> 00:47:55,575
+Jika Vortex beroperasi
+itu terlalu berbahaya
+
+545
+00:47:55,673 --> 00:47:58,552
+SEKRETARIS ASING:
+Saya cenderung setuju, Perdana Menteri.
+
+546
+00:48:00,878 --> 00:48:02,186
+AMBROSE: Ada jalan.
+
+547
+00:48:03,214 --> 00:48:06,525
+Swiss bersedia meminjamkan kami Le Bastion.
+
+548
+00:48:06,650 --> 00:48:08,823
+Itu benteng pemerintah mereka di Pegunungan Alpen.
+
+549
+00:48:09,220 --> 00:48:13,726
+Ini adalah contoh yang menakjubkan dari
+teknik arsitektur di ketinggian,
+
+550
+00:48:13,824 --> 00:48:16,668
+dan benar-benar tak tertembus.
+
+551
+00:48:16,727 --> 00:48:20,197
+Maksud saya, itu seharusnya bisa diselesaikan
+semua masalah keamanan kami.
+
+552
+00:48:20,998 --> 00:48:22,841
+Kemudian pembicaraan dilanjutkan.
+
+553
+00:48:22,900 --> 00:48:24,880
+Pamela, saya harap Anda sudah memolesnya
+dalam bahasa Mandarin Anda.
+
+554
+00:48:25,002 --> 00:48:28,779
+Saya ingin Anda di kamar dengan saya,
+dan orang terbaikmu dalam keamanan.
+
+555
+00:48:28,873 --> 00:48:30,716
+Ya, Perdana Menteri.
+
+556
+00:48:32,676 --> 00:48:35,020
+Dimana kita di Vortex?
+
+557
+00:48:36,180 --> 00:48:37,250
+Inggris?
+
+558
+00:48:37,882 --> 00:48:42,888
+Vortex adalah tiga pria.
+Fisher adalah salah satunya, Karlenko adalah salah satunya.
+
+559
+00:48:43,020 --> 00:48:46,900
+Karlenko terbunuh hari ini
+atas perintah ketiga.
+
+560
+00:48:48,092 --> 00:48:49,571
+PEGASUS: Ada petunjuk?
+
+561
+00:48:49,693 --> 00:48:51,866
+Ya, tapi saya butuh waktu.
+
+562
+00:48:51,929 --> 00:48:53,772
+PEGASUS: Kami tidak punya waktu.
+
+563
+00:48:53,864 --> 00:48:58,040
+Kita perlu tahu identitasnya
+dari orang ketiga di Vortex.
+
+564
+00:49:03,240 --> 00:49:05,049
+Beri aku 24 jam.
+
+565
+00:49:16,787 --> 00:49:18,130
+Sebotol Romaine-Conti lagi?
+
+566
+00:49:19,056 --> 00:49:20,967
+Tentu saja.
+Dan apakah Anda ingin memilih makanan penutup?
+
+567
+00:49:21,058 --> 00:49:23,095
+Iya. Kamu.
+
+568
+00:49:24,929 --> 00:49:27,102
+Dan bawakan dua sendok.
+
+569
+00:49:27,231 --> 00:49:28,938
+(KEDUA TERTIKAK)
+
+570
+00:49:31,902 --> 00:49:33,643
+- Bersulang.
+- Bersulang.
+
+571
+00:49:34,071 --> 00:49:35,744
+Bersulang.
+
+572
+00:49:37,908 --> 00:49:41,253
+Jadi, ayo, Johnny,
+apa yang ingin kamu tanyakan padaku '?
+
+573
+00:49:45,783 --> 00:49:50,163
+Simon, apa kamu tahu ini apa?
+
+574
+00:49:53,924 --> 00:49:55,801
+Semacam kunci?
+
+575
+00:49:55,926 --> 00:50:01,433
+Karlenko dan Fisher punya satu,
+dan mereka berdua dibunuh untuk mereka.
+
+576
+00:50:02,333 --> 00:50:06,713
+Baiklah, saya akan memberikannya kepada anak laki-laki
+di lab dan lihat ...
+
+577
+00:50:06,804 --> 00:50:13,153
+Karlenko mengatakan kepada saya bahwa orang ketiga
+di Vortex ada di MI7.
+
+578
+00:50:19,683 --> 00:50:23,324
+Dan Anda percaya padanya?
+
+579
+00:50:23,988 --> 00:50:30,496
+Simon, saya harus mengajukan pertanyaan,
+tatap muka.
+
+580
+00:50:32,796 --> 00:50:37,142
+Apakah Anda tahu siapa itu?
+
+581
+00:50:39,837 --> 00:50:43,307
+Johnny, pikirku
+Anda akan menuduh saya.
+
+582
+00:50:43,374 --> 00:50:44,819
+Tidak! Maksud saya, sejujurnya.
+
+583
+00:50:44,875 --> 00:50:45,979
+(KEDUA TERTAWA)
+
+584
+00:50:46,043 --> 00:50:48,819
+- Apa?
+- Simon Ambrose, dalang jahat!
+
+585
+00:50:48,879 --> 00:50:50,825
+- Jangan. Hentikan-
+- Pengkhianat di tengah-tengah kita!
+
+586
+00:50:50,881 --> 00:50:52,326
+Kamu! Kamu!
+
+587
+00:50:54,018 --> 00:50:55,691
+Simon, kamu sangat lucu.
+
+588
+00:50:57,087 --> 00:50:58,498
+(GURGLING) Histeris.
+
+589
+00:50:59,823 --> 00:51:01,029
+Oh sayang.
+
+590
+00:51:01,158 --> 00:51:02,159
+(TELEPON SELULER BERBUNYI)
+
+591
+00:51:04,595 --> 00:51:07,201
+Permisi
+untuk sesaat, Simon?
+
+592
+00:51:21,178 --> 00:51:23,249
+- Pak.
+- Tucker, bisa '! menunggu ini?
+
+593
+00:51:23,347 --> 00:51:25,054
+Pak, ini Ambrose.
+
+594
+00:51:25,683 --> 00:51:27,424
+Ya, saya tahu itu Ambrose.
+Saya sedang makan malam dengannya.
+
+595
+00:51:27,518 --> 00:51:30,192
+Tidak, dia orang ketiga di Vortex.
+
+596
+00:51:31,889 --> 00:51:33,869
+Simon Ambrose?
+
+597
+00:51:35,225 --> 00:51:37,364
+Dia pergi ke Eton.
+
+598
+00:51:37,695 --> 00:51:38,696
+(PINTU TERBUKA)
+
+599
+00:51:39,697 --> 00:51:40,971
+Simon.
+
+600
+00:51:41,065 --> 00:51:42,203
+Tinggalkan.
+
+601
+00:51:45,302 --> 00:51:46,372
+- Apakah kamu...
+- Pindah.
+
+602
+00:51:46,470 --> 00:51:48,575
+- Baiklah baiklah.
+- Ayo, minggir.
+
+603
+00:51:48,706 --> 00:51:50,379
+Makanan.
+
+604
+00:51:51,241 --> 00:51:54,745
+- Kamu bilang kamu tidak pernah tahu Karlenko.
+- Betul sekali.
+
+605
+00:51:54,878 --> 00:51:57,415
+Lalu bagaimana Anda menjelaskan ini?
+
+606
+00:51:58,048 --> 00:52:02,053
+Saya meretas komputer Karlenko.
+Anda dan dia di Mozambik?
+
+607
+00:52:30,180 --> 00:52:33,093
+Kadang-kadang saya sendiri kesulitan, anak tua.
+
+608
+00:52:51,769 --> 00:52:53,612
+Anda Vortex!
+Anda orang ketiga di Vortex!
+
+609
+00:52:53,704 --> 00:52:54,876
+Tucker, ini konyol.
+
+610
+00:52:54,972 --> 00:52:56,042
+(URINASI)
+
+611
+00:52:56,140 --> 00:52:58,051
+Maaf, saya akan segera bersamamu.
+
+612
+00:52:58,375 --> 00:53:00,116
+Memang benar, saya berada di Mozambik.
+
+613
+00:53:01,045 --> 00:53:02,319
+Apa?
+
+614
+00:53:02,780 --> 00:53:06,125
+Saya ada di sana karena Patch Quartermain.
+
+615
+00:53:06,183 --> 00:53:10,029
+Tambalan? Maaf, saya hanya akan sebentar.
+
+616
+00:53:10,120 --> 00:53:12,999
+Dia pria yang Anda cari.
+
+617
+00:53:13,490 --> 00:53:15,629
+- Anda menggertak!
+- Maaf.
+
+618
+00:53:15,693 --> 00:53:19,038
+Saya bekerja untuk organisasi rahasia di dalam MI7
+
+619
+00:53:19,129 --> 00:53:21,837
+diatur secara khusus untuk membawanya masuk.
+
+620
+00:53:22,700 --> 00:53:24,680
+Agen Rahasia rahasia?
+
+621
+00:53:24,802 --> 00:53:27,180
+Ya? Disebut apakah itu?
+
+622
+00:53:27,805 --> 00:53:29,807
+Disebut apakah itu?
+
+623
+00:53:31,642 --> 00:53:32,985
+Armitage.
+
+624
+00:53:33,210 --> 00:53:36,817
+Sebuah dinas rahasia rahasia
+disebut Armitage?
+
+625
+00:53:37,214 --> 00:53:39,524
+Kami hanya menjawab PM.
+
+626
+00:53:41,852 --> 00:53:44,162
+Luar biasa, Simon ...
+
+627
+00:53:44,688 --> 00:53:46,031
+AMBROSE: Memang benar.
+
+628
+00:53:46,156 --> 00:53:49,365
+... Bahwa Anda akan berpikir sejenak
+
+629
+00:53:49,493 --> 00:53:54,567
+bahwa saya akan jatuh cinta
+tumpukan omong kosong tua yang mengepul.
+
+630
+00:53:54,665 --> 00:53:57,908
+Kerja bagus, Tucker.
+Anda bukan Spy of the Month tanpa alasan.
+
+631
+00:53:58,001 --> 00:54:01,210
+- Terima kasih Pak.
+- Ini, biarkan aku yang mengambilnya.
+
+632
+00:54:01,338 --> 00:54:02,544
+Sekarang pulanglah.
+
+633
+00:54:03,674 --> 00:54:06,621
+- Apa?
+- Kaulah yang berbicara omong kosong.
+
+634
+00:54:06,710 --> 00:54:09,520
+Anda berada di jalan di atas kepala Anda, Nak.
+Sekarang pergilah.
+
+635
+00:54:09,580 --> 00:54:13,050
+Tidak! Saya tidak akan pergi, Pak. Dia berbohong.
+
+636
+00:54:13,183 --> 00:54:16,460
+Anda telah mengecewakan saya,
+Anda telah mengecewakan Layanan
+
+637
+00:54:16,553 --> 00:54:18,624
+dan, terus terang,
+Saya pikir Anda telah mengecewakan diri sendiri.
+
+638
+00:54:18,722 --> 00:54:21,396
+- Tetapi saya...
+- Sekarang keluar!
+
+639
+00:54:26,263 --> 00:54:31,406
+Patch Quartermain, dari semua orang.
+Meniup kakinya sendiri?
+
+640
+00:54:31,535 --> 00:54:34,539
+Nah, itulah yang saya sebut penutup dalam.
+
+641
+00:54:34,605 --> 00:54:36,448
+Dan untuk memikirkan betapa aku mengaguminya.
+
+642
+00:54:36,540 --> 00:54:37,610
+Dia membencimu.
+
+643
+00:54:38,575 --> 00:54:40,885
+- Betulkah?
+- Dia selalu begitu.
+
+644
+00:54:40,944 --> 00:54:44,255
+Dia pikir kamu bodoh
+tanpa tempat di MI7,
+
+645
+00:54:44,381 --> 00:54:48,955
+bukan siapa-siapa sekolah tata bahasa melompat-up
+Itu sebabnya dia mencoba menghancurkanmu.
+
+646
+00:54:50,954 --> 00:54:54,834
+Sekarang, Johnny,
+hanya karena dia menghancurkan hidupmu,
+
+647
+00:54:54,925 --> 00:54:57,769
+itu bukan alasan bagimu untuk menjadi nakal
+dan menjatuhkannya sendiri.
+
+648
+00:55:00,430 --> 00:55:04,071
+Tuhan melarang saya harus membuat ide gila
+seperti itu di kepalamu.
+
+649
+00:55:06,303 --> 00:55:08,078
+Selamat malam, Simon.
+
+650
+00:55:09,139 --> 00:55:13,610
+Johnny, kunci yang kau tunjukkan padaku.
+Kami mungkin membutuhkannya untuk membawanya masuk.
+
+651
+00:55:19,583 --> 00:55:21,995
+- Terima kasih.
+- Terima kasih kembali pak.
+
+652
+00:55:23,620 --> 00:55:24,997
+Tit konyol.
+
+653
+00:55:29,927 --> 00:55:31,133
+Bingo.
+
+654
+00:55:33,764 --> 00:55:35,766
+- Atur pertemuan dengan klien kami
+- MADELEINE: Tentu saja.
+
+655
+00:55:49,179 --> 00:55:50,624
+Pegasus.
+
+656
+00:55:51,815 --> 00:55:53,624
+Kami memiliki orang ketiga.
+
+657
+00:55:56,320 --> 00:55:58,300
+Ini Johnny English.
+
+658
+00:56:09,132 --> 00:56:10,634
+BAHASA INGGRIS: Halo, Patch.
+
+659
+00:56:11,301 --> 00:56:13,372
+Mencari pengampunan?
+
+660
+00:56:15,639 --> 00:56:20,486
+Semuanya sudah berakhir untuk Anda sekarang, bahasa Inggris.
+Ini akhir dari garis.
+
+661
+00:56:20,978 --> 00:56:23,584
+Ya, Anda suka itu, bukan, Patch?
+
+662
+00:56:23,680 --> 00:56:27,992
+Lagipula, saya hanya lompatan
+sekolah tata bahasa bukan siapa-siapa, bukan?
+
+663
+00:56:28,518 --> 00:56:30,020
+(Terkekeh) Apa yang kamu bicarakan?
+
+664
+00:56:31,321 --> 00:56:36,703
+Saya tahu bahwa Anda adalah orang ketiga di Vortex.
+
+665
+00:56:40,330 --> 00:56:43,038
+Tidak, Johnny. Kamu adalah.
+
+666
+00:56:44,234 --> 00:56:45,679
+Tidak, kamu.
+
+667
+00:56:45,736 --> 00:56:47,511
+Tidak. Kamu!
+
+668
+00:56:49,339 --> 00:56:51,512
+Siaga, semua agen.
+
+669
+00:56:51,575 --> 00:56:53,851
+Dan semuanya berakhir di sini.
+
+670
+00:56:58,882 --> 00:57:00,054
+<i> PEGASUS: Bawa dia. </i>
+
+671
+00:57:02,686 --> 00:57:03,687
+(GUNSHOT DIBungkam)
+
+672
+00:57:03,754 --> 00:57:04,858
+(DERING LOGAM)
+
+673
+00:57:16,600 --> 00:57:17,704
+(Mendengus)
+
+674
+00:57:43,393 --> 00:57:44,736
+Johnny.
+
+675
+00:57:56,807 --> 00:57:57,945
+WANITA: Hei! Awas!
+
+676
+00:58:00,911 --> 00:58:02,948
+Dapatkan dia! Pindah! Pindah!
+
+677
+00:58:04,581 --> 00:58:06,117
+Jangan sampai kehilangan dia. Pergi pergi!
+
+678
+00:58:06,283 --> 00:58:07,421
+Berhenti!
+
+679
+00:58:07,584 --> 00:58:08,585
+(CAR HONKING)
+
+680
+00:58:21,298 --> 00:58:24,336
+Menuju ke barat menuju Vine Street.
+Memobilisasi semua kendaraan.
+
+681
+00:59:01,471 --> 00:59:02,472
+Idiot!
+
+682
+00:59:10,547 --> 00:59:13,391
+Anda telah kehilangan dia! Saya tidak percaya itu.
+
+683
+00:59:27,364 --> 00:59:29,844
+Oi! Kamu pikir kamu siapa?
+
+684
+00:59:33,036 --> 00:59:34,071
+(SEMUA terengah-engah)
+
+685
+01:00:07,571 --> 01:00:09,778
+Kena kau.
+
+686
+01:00:28,558 --> 01:00:29,935
+(SIRENS BLARING)
+
+687
+01:00:39,903 --> 01:00:43,077
+<i> AGEN: Agen Inggris, berhenti! Pullover! </i>
+
+688
+01:01:10,167 --> 01:01:11,271
+MAN: Hentikan ii!
+
+689
+01:01:15,305 --> 01:01:16,477
+AGEN: Kejar dia.
+
+690
+01:01:23,613 --> 01:01:25,183
+(MUSIK POP BERMAIN DI STEREO)
+
+691
+01:01:34,624 --> 01:01:35,659
+(TERIAKAN)
+
+692
+01:01:35,792 --> 01:01:38,966
+Kate, Kate, aku bukan Vortex. Saya telah dijebak.
+
+693
+01:01:40,030 --> 01:01:42,374
+Anda harus mempercayai saya.
+
+694
+01:02:09,226 --> 01:02:10,534
+<i> CHI HAN LY: Bagaimana melakukannya? </i>
+
+695
+01:02:14,598 --> 01:02:18,603
+Sama seperti di Mozambik.
+Satu orang, tampaknya bekerja sendiri.
+
+696
+01:02:20,070 --> 01:02:21,413
+Siapa yang kamu pilih?
+
+697
+01:02:22,072 --> 01:02:23,676
+Tinggalkan itu denganku.
+
+698
+01:02:26,576 --> 01:02:31,582
+Akun saya di Zurich.
+500 juta dolar AS, sesuai kesepakatan.
+
+699
+01:02:47,230 --> 01:02:48,607
+Anda sudah keluar berjam-jam
+
+700
+01:02:59,876 --> 01:03:00,946
+(Mendengus)
+
+701
+01:03:01,044 --> 01:03:03,718
+Nah, Anda beruntung itu hanya luka daging.
+
+702
+01:03:03,780 --> 01:03:08,160
+Sekarang, lihat, saya akan ke Swiss malam ini,
+tapi kamu bisa tinggal di sini saat aku pergi.
+
+703
+01:03:08,885 --> 01:03:09,955
+Mmm-hmm. Mmm-hmm.
+
+704
+01:03:10,053 --> 01:03:14,331
+Saya telah membaca cuplikan berita
+sejak malam Chambal terbunuh.
+
+705
+01:03:15,292 --> 01:03:17,329
+Dan ada yang tidak beres.
+
+706
+01:03:17,427 --> 01:03:19,600
+Beberapa detik setelah Presiden Chambal ditembak,
+
+707
+01:03:19,663 --> 01:03:22,007
+pembunuh itu pingsan dan mati.
+
+708
+01:03:22,098 --> 01:03:25,341
+Dan otopsi mengatakan gagal jantung.
+
+709
+01:03:25,435 --> 01:03:30,475
+Tapi, jika Anda melalui
+rekaman CCTV rahasia ...
+
+710
+01:03:31,908 --> 01:03:33,182
+(BERDENGAR)
+
+711
+01:03:33,843 --> 01:03:35,413
+Kamu baik-baik saja?
+
+712
+01:03:35,945 --> 01:03:37,583
+Ya, baiklah.
+
+713
+01:03:38,615 --> 01:03:40,686
+Lihatlah ini.
+
+714
+01:03:41,351 --> 01:03:46,994
+Lima belas menit sebelumnya
+pembunuhan itu, lihat, dia manik.
+
+715
+01:03:47,090 --> 01:03:49,764
+Dia benar-benar kehilangan kendali atas tubuhnya
+
+716
+01:03:49,826 --> 01:03:52,830
+Dan kemudian, tiba-tiba, katatonik.
+
+717
+01:03:55,332 --> 01:03:56,970
+Sini, tunggu.
+
+718
+01:03:58,301 --> 01:03:59,507
+Sana.
+
+719
+01:03:59,936 --> 01:04:02,143
+Seseorang sedang berbicara dengannya.
+
+720
+01:04:05,942 --> 01:04:09,788
+Saya tidak berpikir dia tahu
+apa yang dia lakukan.
+
+721
+01:04:09,846 --> 01:04:12,349
+Saya pikir senjata rahasia Vortex ...
+
+722
+01:04:13,116 --> 01:04:16,359
+Apakah obat pengontrol pikiran.
+
+723
+01:04:16,453 --> 01:04:18,831
+Dan hanya satu yang cocok dengan gejalanya.
+
+724
+01:04:21,224 --> 01:04:24,467
+Timox ... Timoxylin Bubby ...
+
+725
+01:04:24,527 --> 01:04:26,404
+MUSIM PANAS: Timoxeline Barbebutenol.
+
+726
+01:04:26,963 --> 01:04:30,308
+CIA memerintahkan penghancurannya
+10 tahun yang lalu.
+
+727
+01:04:30,367 --> 01:04:33,814
+Dan agen yang bertanggung jawab atas pembuangannya ...
+
+728
+01:04:34,804 --> 01:04:36,579
+INGGRIS: Titus Fisher.
+
+729
+01:04:40,844 --> 01:04:42,983
+Saya tidak tahu bagaimana harus berterima kasih.
+
+730
+01:04:44,381 --> 01:04:45,826
+Saya ingin dibawa pulang.
+
+731
+01:04:47,150 --> 01:04:48,857
+Anggap saja sudah beres.
+
+732
+01:04:51,388 --> 01:04:52,833
+Terbang rendah.
+
+733
+01:05:02,198 --> 01:05:05,543
+Jadi, Johnny, apa yang akan kamu lakukan
+tentang Vortex '?
+
+734
+01:05:07,036 --> 01:05:11,712
+Saya tidak tahu. Andai saja Simon ada di sini.
+Dia tahu apa yang harus dilakukan.
+
+735
+01:05:11,775 --> 01:05:14,255
+Menurut Anda mengapa dia lebih baik dari Anda?
+
+736
+01:05:14,878 --> 01:05:16,880
+Nah, pria itu dewa.
+
+737
+01:05:17,180 --> 01:05:19,182
+Yah, aku lebih suka manusia.
+
+738
+01:05:21,117 --> 01:05:24,792
+Manusia yang murni, rumit, dan menjengkelkan.
+
+739
+01:05:26,689 --> 01:05:29,295
+Saya telah menyadari
+itulah yang sangat menarik bagiku
+
+740
+01:05:29,392 --> 01:05:34,432
+adalah kesetiaan, tekad, dan keberanian yang besar.
+
+741
+01:05:35,932 --> 01:05:39,106
+Anda selalu membuat saya terpesona, secara klinis.
+
+742
+01:05:41,237 --> 01:05:42,944
+Tapi sekarang kamu ...
+
+743
+01:05:44,741 --> 01:05:49,588
+Ms Sumner, pupil Anda melebar.
+
+744
+01:05:49,979 --> 01:05:51,788
+Apakah mereka?
+
+745
+01:05:53,283 --> 01:05:55,786
+Pipimu mewarnai.
+
+746
+01:05:56,152 --> 01:05:58,428
+Memperdalam kontak mata.
+
+747
+01:05:58,788 --> 01:06:00,665
+Denyut jantung meningkat.
+
+748
+01:06:02,959 --> 01:06:08,932
+Ms Sumner,
+Saya yakin kita sedang bocor secara emosional.
+
+749
+01:06:10,834 --> 01:06:11,904
+(CINCIN PINTU)
+
+750
+01:06:12,669 --> 01:06:15,513
+- Kamar tidur, cepat.
+- Tentu.
+
+751
+01:06:16,172 --> 01:06:17,412
+Sekarang!
+
+752
+01:06:25,448 --> 01:06:27,428
+- Halo?
+- AMBROSE: Halo.
+
+753
+01:06:27,484 --> 01:06:29,828
+- Oh, Simon.
+- Hai, Kate.
+
+754
+01:06:30,420 --> 01:06:32,957
+Anda siap? Aku akan mengantarmu ke bandara.
+
+755
+01:06:33,022 --> 01:06:35,662
+MUSIM PANAS: Bagus sekali. Aku akan mengambil tasku saja.
+
+756
+01:06:40,630 --> 01:06:41,973
+AMBROSE: Anda sendiri?
+
+757
+01:06:42,098 --> 01:06:43,839
+(Berbisik) Tidak.
+(LOUDER) Tentu saja.
+
+758
+01:06:43,933 --> 01:06:45,105
+AMBROSE: Sudah bekerja?
+
+759
+01:06:45,168 --> 01:06:48,945
+MUSIM PANAS: Telah menyikat
+pada PM China. Kamu?
+
+760
+01:06:49,005 --> 01:06:50,848
+Kami mencoba melacak badut Johnny English
+
+761
+01:06:54,544 --> 01:06:58,993
+Ada beberapa pertanyaan
+kami ingin bertanya padanya, tentang Vortex.
+
+762
+01:06:59,048 --> 01:07:00,686
+Saya kira Anda tidak pernah melihatnya, bukan?
+
+763
+01:07:00,783 --> 01:07:01,853
+Tidak.
+
+764
+01:07:03,119 --> 01:07:04,962
+Tidak menyembunyikannya?
+
+765
+01:07:05,788 --> 01:07:08,962
+Bukan tipe saya. (Terkekeh) Haruskah kita?
+
+766
+01:07:09,125 --> 01:07:10,160
+Mmm-hmm.
+
+767
+01:07:51,367 --> 01:07:53,404
+Ambrose.
+
+768
+01:07:53,870 --> 01:07:55,611
+(WHIRRING PEMBERSIH VAKUM)
+
+769
+01:08:22,031 --> 01:08:23,066
+(BERHENTI BERPUTAR)
+
+770
+01:08:45,388 --> 01:08:46,423
+(PENGECUALIAN)
+
+771
+01:08:50,627 --> 01:08:51,662
+(TERIAKAN)
+
+772
+01:08:55,498 --> 01:08:56,568
+(ENGLISH GRUNTING)
+
+773
+01:09:27,130 --> 01:09:29,804
+Ada Tuan Adams yang ingin bertemu denganmu, Colin.
+
+774
+01:09:31,434 --> 01:09:34,176
+- Halo, Tucker.
+- Apa yang kamu lakukan di sini?
+
+775
+01:09:34,270 --> 01:09:37,183
+Setiap agen di negara ini mengejarmu.
+
+776
+01:09:37,273 --> 01:09:38,684
+Kami benar tentang Ambrose
+
+777
+01:09:39,609 --> 01:09:40,713
+Apa maksudmu "kami"?
+
+778
+01:09:40,810 --> 01:09:42,118
+Dan jika kita bisa bertindak cepat, kita masih bisa ...
+
+779
+01:09:42,178 --> 01:09:44,454
+Anda tidak akan mendengarkan, bukan?
+
+780
+01:09:44,514 --> 01:09:47,393
+Anda pikir Anda tahu semuanya. Yah 'kamu tidak!
+
+781
+01:09:47,483 --> 01:09:50,293
+Menjadi agen berarti segalanya bagiku.
+
+782
+01:09:50,353 --> 01:09:52,629
+Dan, terima kasih, saya diskors!
+
+783
+01:09:53,990 --> 01:09:56,027
+Apakah kalian suka labu jeruk?
+
+784
+01:09:56,125 --> 01:09:58,002
+- Tidak terima kasih.
+- Selamat tinggal, terima kasih, Bu.
+
+785
+01:10:00,129 --> 01:10:05,477
+Tucker, Ambrose berlokasi di Swiss.
+Kami berada di Tooting.
+
+786
+01:10:06,536 --> 01:10:09,676
+Saya di sini karena negara saya membutuhkan saya.
+
+787
+01:10:11,708 --> 01:10:14,985
+Dan karena itu membutuhkan Anda juga.
+
+788
+01:10:34,230 --> 01:10:36,938
+<i> - Royce.
+- SUARA OTOMATIS: Siap, Pak. </i>
+
+789
+01:10:37,600 --> 01:10:39,079
+Datang.
+
+790
+01:10:44,507 --> 01:10:46,111
+<i> SUARA OTOMATIS: Obstruksi terdeteksi. </i>
+
+791
+01:10:47,677 --> 01:10:48,712
+(ALARM BLARING)
+
+792
+01:11:06,195 --> 01:11:09,608
+Atur navigasi satelit untuk Swiss
+Mari kita tendang bagian bawah.
+
+793
+01:11:41,664 --> 01:11:44,907
+<i> SUARA OTOMATIS:
+Anda telah sampai di tujuan Anda. </i>
+
+794
+01:11:45,968 --> 01:11:47,743
+<i> Semoga beruntung, Pak! </i>
+
+795
+01:11:56,312 --> 01:12:01,421
+Le Bastion. Satu jalan naik, satu jalan turun.
+
+796
+01:12:04,654 --> 01:12:06,634
+Ayolah. Ayo dapatkan barangnya.
+
+797
+01:12:11,594 --> 01:12:15,371
+Wah, lihat. Rudal darat-ke-udara T-2!
+
+798
+01:12:16,432 --> 01:12:19,106
+Itu perisai antipeluru D-7.
+
+799
+01:12:19,368 --> 01:12:21,041
+Ambillah dari saya, Tucker.
+
+800
+01:12:21,137 --> 01:12:24,016
+Saya bekerja dengan ini
+saat Anda merangkai conker.
+
+801
+01:12:24,207 --> 01:12:25,811
+(MENGOBROL DALAM BAHASA ASING)
+
+802
+01:12:54,136 --> 01:12:55,581
+Pengait P-8?
+
+803
+01:12:56,739 --> 01:12:57,979
+Memeriksa.
+
+804
+01:12:58,040 --> 01:12:59,747
+- INGGRIS: Perkiraan tinggi?
+- Tiga puluh lima kaki.
+
+805
+01:12:59,842 --> 01:13:01,344
+Semua milikmu, Tucker.
+
+806
+01:13:01,410 --> 01:13:03,253
+Bisakah saya mengatakan, Pak '?
+
+807
+01:13:05,047 --> 01:13:07,186
+Ini bagus sekali.
+
+808
+01:13:09,752 --> 01:13:11,561
+Baiklah, lanjutkan.
+
+809
+01:13:19,528 --> 01:13:22,441
+The D-16 ascender, dan naiklah kita.
+
+810
+01:13:23,332 --> 01:13:24,868
+Apakah Anda yakin itu yang naik, Pak?
+
+811
+01:13:24,934 --> 01:13:26,538
+Ya, ya, saya tahu itu di mana saja.
+
+812
+01:13:27,236 --> 01:13:30,376
+<i> SUARA OTOMATIS:
+Agen dalam kesulitan. Agen dalam kesulitan. </i>
+
+813
+01:13:30,439 --> 01:13:32,544
+(ALARM BLARING)
+
+814
+01:13:36,112 --> 01:13:37,182
+(KABUR)
+
+815
+01:13:37,713 --> 01:13:38,748
+(ANJING MENGGONGGONG)
+
+816
+01:13:39,682 --> 01:13:43,789
+<i> Agen dalam kesulitan. Agen dalam kesulitan. </i>
+
+817
+01:13:46,555 --> 01:13:48,262
+<i> Aku di sini! </i>
+
+818
+01:13:48,357 --> 01:13:50,098
+Diam! Diam!
+
+819
+01:13:50,192 --> 01:13:52,035
+<i> Aku di sini! </i>
+
+820
+01:13:58,768 --> 01:13:59,803
+(SIREN BERHENTI)
+
+821
+01:14:01,938 --> 01:14:04,714
+<i> SUARA OTOMATIS YANG LUAR BIASA:
+Mengaktifkan pencari lokasi visual. </i>
+
+822
+01:14:04,774 --> 01:14:08,244
+<i> Tiga, dua, satu. </i>
+
+823
+01:14:11,047 --> 01:14:12,082
+(BERBICARA BAHASA ASING)
+
+824
+01:14:15,251 --> 01:14:16,889
+<I> PRIA DENGAN LOUDSPEAKER:
+Penyusup di Sektor Empat! </i>
+
+825
+01:14:17,320 --> 01:14:19,493
+(PRIA MENGUMUMKAN DALAM BAHASA ASING)
+
+826
+01:14:19,755 --> 01:14:20,790
+(ANJING BARKING)
+
+827
+01:14:23,559 --> 01:14:27,166
+Ya Tuhan, jangan biarkan aku mati
+di tangan orang Swiss.
+
+828
+01:14:28,597 --> 01:14:31,806
+Tucker, sekarang dengarkan. Saya ingin Anda menyerang saya
+
+829
+01:14:31,901 --> 01:14:33,505
+- Apa?
+- Setelah berjuang,
+
+830
+01:14:33,602 --> 01:14:37,414
+Anda bisa "menangkap saya"
+dan bawa aku masuk sebagai tawananmu.
+
+831
+01:14:37,473 --> 01:14:40,010
+- Pak, saya tidak bisa.
+- Tucker, itu perintah.
+
+832
+01:14:41,344 --> 01:14:43,790
+Pukul aku. Pukul aku.
+
+833
+01:14:45,648 --> 01:14:47,150
+Ayo, lebih keras.
+
+834
+01:14:48,084 --> 01:14:50,997
+- Lebih baik, s '?
+- (Mendengus) Ya, jauh lebih baik.
+
+835
+01:14:53,656 --> 01:14:55,636
+Saya bisa melihat bagaimana orang merasakan ini.
+
+836
+01:14:58,127 --> 01:15:00,437
+Saya mendapat ide yang lebih baik. Aku akan menembakmu!
+
+837
+01:15:00,496 --> 01:15:02,169
+Tidak tidak Tidak.
+
+838
+01:15:02,298 --> 01:15:04,300
+- Mati, sampah Vortex!
+- Tucker!
+
+839
+01:15:06,168 --> 01:15:07,943
+(AGEN BERTERIAK
+DALAM BAHASA ASING)
+
+840
+01:15:10,172 --> 01:15:11,708
+Agen Tucker!
+
+841
+01:15:15,177 --> 01:15:16,679
+Ini Johnny English.
+
+842
+01:15:19,482 --> 01:15:21,018
+Bawa dia.
+
+843
+01:15:37,733 --> 01:15:39,644
+AMBROSE: Gelas bisa tahan
+serangan mortir.
+
+844
+01:15:40,036 --> 01:15:42,983
+Pintunya satu arah.
+Anda bisa keluar, tapi tidak ada yang masuk.
+
+845
+01:15:43,039 --> 01:15:44,347
+Luar biasa.
+
+846
+01:15:49,011 --> 01:15:50,752
+Anda siap, Slater '?
+
+847
+01:15:57,987 --> 01:16:00,160
+Saya akan minta mereka mengirim minuman
+ke kamarmu
+
+848
+01:16:00,222 --> 01:16:01,428
+saat Anda siap, Pegasus.
+
+849
+01:16:01,524 --> 01:16:03,094
+Terima kasih, Agen Satu.
+
+850
+01:16:12,501 --> 01:16:14,572
+Aku akan mengambilnya dari sini, nak.
+
+851
+01:16:17,273 --> 01:16:19,116
+Tahan di sana!
+
+852
+01:16:21,077 --> 01:16:22,886
+Biarkan saya melihat ID Anda.
+
+853
+01:16:24,213 --> 01:16:26,124
+- BAHASA INGGRIS: (BERBISIK) Permisi
+- Apa ...
+
+854
+01:16:29,552 --> 01:16:30,758
+Berhenti!
+
+855
+01:16:32,021 --> 01:16:34,968
+Peringatan, ini adalah zona konflik yang ditentukan.
+
+856
+01:16:37,226 --> 01:16:38,864
+(DENGKUR)
+
+857
+01:16:40,262 --> 01:16:41,297
+(Terkekeh)
+
+858
+01:16:43,532 --> 01:16:46,206
+Pak'? Pak?
+
+859
+01:16:53,776 --> 01:16:55,722
+(PRIA CHATTERING)
+
+860
+01:17:01,650 --> 01:17:02,720
+(Mendengus)
+
+861
+01:17:03,652 --> 01:17:06,496
+- PEGASUS: Terima kasih banyak
+- Sama-sama, Pegasus.
+
+862
+01:17:07,156 --> 01:17:08,464
+INGGRIS: Pegasus.
+
+863
+01:17:17,566 --> 01:17:21,412
+Lanjutkan. Lanjutkan.
+
+864
+01:17:26,775 --> 01:17:27,810
+(Terengah-engah)
+
+865
+01:17:29,178 --> 01:17:30,486
+Apa-apaan itu?
+
+866
+01:17:37,086 --> 01:17:40,295
+Pak'? Pak?
+
+867
+01:17:42,992 --> 01:17:44,300
+- Inggris!
+- Pegasus.
+
+868
+01:17:45,661 --> 01:17:48,107
+Mereka akan membuatmu membunuh Xiang Ping!
+
+869
+01:17:48,164 --> 01:17:49,472
+Anda gila!
+
+870
+01:17:52,535 --> 01:17:54,310
+Agen Satu, terima kasih Tuhan.
+
+871
+01:17:54,637 --> 01:17:59,814
+Dia tidak akan membantumu.
+Dia anggota ketiga Vortex.
+
+872
+01:17:59,875 --> 01:18:01,855
+Bukankah begitu, Simon?
+
+873
+01:18:04,380 --> 01:18:08,157
+Di sini untuk memberi Anda bubby Timoxy ...
+
+874
+01:18:08,217 --> 01:18:10,197
+(TERGAGAP) Timoxy bubby
+
+875
+01:18:11,854 --> 01:18:14,562
+Timoxy bubby ...
+
+876
+01:18:16,792 --> 01:18:22,037
+Memberi Anda obat yang akan membuat Anda
+mematuhi setiap perintahnya.
+
+877
+01:18:30,639 --> 01:18:32,482
+Saya tertarik, Simon.
+
+878
+01:18:33,909 --> 01:18:38,051
+Bagaimana sebenarnya
+apakah Anda akan mengaturnya?
+
+879
+01:18:42,918 --> 01:18:44,556
+Dengan injeksi?
+
+880
+01:18:49,592 --> 01:18:53,096
+Beberapa gas mengerikan melalui ventilasi udara?
+
+881
+01:18:59,435 --> 01:19:01,847
+Atau dengan membubuhi minumannya?
+
+882
+01:19:04,406 --> 01:19:06,511
+Timoxeline Barbebutenol.
+
+883
+01:19:11,947 --> 01:19:16,259
+Dia akan memasuki fase manik
+kapan saja sekarang.
+
+884
+01:19:17,453 --> 01:19:20,525
+(SCOFFS) Saya harus memperingatkan Anda bahwa saya sudah pernah
+dilatih untuk melawan hal semacam ini.
+
+885
+01:19:20,756 --> 01:19:22,531
+(Gagap)
+
+886
+01:19:24,093 --> 01:19:25,868
+Anda babi.
+
+887
+01:19:27,029 --> 01:19:28,702
+Agen Satu, apa yang terjadi?
+
+888
+01:19:28,764 --> 01:19:31,370
+Dia cukup tidak berbahaya pada fase ini.
+
+889
+01:19:31,433 --> 01:19:33,709
+Obat itu akan membunuhnya,
+tapi sebelum itu terjadi,
+
+890
+01:19:33,802 --> 01:19:37,113
+akan ada jendela pendek
+di mana dia akan melakukan semua yang saya perintahkan.
+
+891
+01:19:45,447 --> 01:19:46,551
+Johnny yang malang.
+
+892
+01:19:47,883 --> 01:19:49,624
+Anda tidak pernah benar-benar Ml-7, Johnny.
+
+893
+01:19:49,718 --> 01:19:51,959
+Anda tidak pernah benar-benar salah satu dari kami.
+
+894
+01:19:52,054 --> 01:19:55,399
+Sekarang Anda akan menjadi
+agen kami yang paling terkenal.
+
+895
+01:20:03,565 --> 01:20:07,069
+Sekarang Anda akan melakukan persis seperti yang saya katakan.
+
+896
+01:20:07,136 --> 01:20:09,912
+Anda adalah pengkhianat Layanan
+dan ke negara Anda.
+
+897
+01:20:09,972 --> 01:20:11,508
+Tutup mulutnya, orang tua.
+
+898
+01:20:13,008 --> 01:20:15,249
+- Bebek.
+- Apa?
+
+899
+01:20:18,080 --> 01:20:19,582
+Saya memperingatkan Anda.
+
+900
+01:20:20,516 --> 01:20:23,087
+Oke, Slater. Mari kita persiapkan dia.
+
+901
+01:20:26,088 --> 01:20:27,431
+Siap.
+
+902
+01:20:28,257 --> 01:20:31,204
+Perdana Menteri: Ping Premier,
+Senang akhirnya bisa bertemu denganmu.
+
+903
+01:20:31,593 --> 01:20:34,005
+Anda memiliki penerbangan yang menyenangkan, saya percaya?
+
+904
+01:20:34,430 --> 01:20:37,434
+Aku baru saja bertanya pada Perdana Menteri
+jika dia memiliki penerbangan yang menyenangkan.
+
+905
+01:20:39,935 --> 01:20:42,438
+Kate, Johnny kembali ke tim.
+
+906
+01:20:42,538 --> 01:20:43,846
+Apa?
+
+907
+01:20:43,939 --> 01:20:46,510
+Semuanya sudah diperiksa dan PM
+dan Cina telah menyetujuinya.
+
+908
+01:20:46,608 --> 01:20:48,519
+- Menyetujui apa?
+- Dia menggantikan Pamela.
+
+909
+01:20:48,610 --> 01:20:50,681
+Bukankah itu bagus?
+
+910
+01:21:00,222 --> 01:21:04,568
+Permisi. Agen Tucker.
+
+911
+01:21:10,132 --> 01:21:13,204
+PRIME MENTERI: Bagus, bagus.
+Dan istrimu baik-baik saja?
+
+912
+01:21:13,969 --> 01:21:15,915
+(BERBICARA MANDARIN)
+
+913
+01:21:17,473 --> 01:21:20,147
+<i> AMBROSE: Kunci itu, Johnny. </i>
+
+914
+01:21:20,242 --> 01:21:21,653
+Perdana Menteri: Luar biasa.
+
+915
+01:21:23,312 --> 01:21:24,723
+<i> AMBROSE: Itu saja. </i>
+
+916
+01:21:34,223 --> 01:21:38,763
+Perdana Menteri, saya sangat berterima kasih Anda telah
+setuju untuk bertemu dengan saya saat ini.
+
+917
+01:21:39,828 --> 01:21:42,331
+(BERBICARA MANDARIN)
+
+918
+01:21:45,567 --> 01:21:47,410
+Dengan senang hati.
+
+919
+01:21:48,337 --> 01:21:49,577
+Pertahankan nada itu, Perdana Menteri.
+
+920
+01:21:49,671 --> 01:21:51,446
+Hindari konfrontasi, pertahankan kontak mata.
+
+921
+01:21:52,841 --> 01:21:55,185
+Saya dapat meyakinkan Anda bahwa orang-orang China
+
+922
+01:21:55,277 --> 01:22:00,283
+selalu menganggap Inggris
+orang yang benar-benar mengerikan.
+
+923
+01:22:02,184 --> 01:22:04,095
+- Yang Mulia.
+- Yang Mulia.
+
+924
+01:22:05,120 --> 01:22:07,532
+Sangat terhormat.
+
+925
+01:22:08,357 --> 01:22:09,768
+Tentu saja.
+
+926
+01:22:11,427 --> 01:22:13,373
+Saya sangat ingin bertemu ...
+
+927
+01:22:21,470 --> 01:22:23,313
+(DESAH)
+
+928
+01:22:31,647 --> 01:22:34,560
+Johnny, berdiri dan pergi ke meja air.
+
+929
+01:22:40,556 --> 01:22:43,059
+Perdana Menteri: Perdana Menteri,
+Saya percaya bahaya saat ini
+
+930
+01:22:43,158 --> 01:22:44,899
+bisa dihindari jika kita bertindak cepat.
+
+931
+01:22:44,993 --> 01:22:47,064
+Pergi ke saku kanan Anda.
+
+932
+01:22:50,732 --> 01:22:52,803
+Kami mendesainnya untuk Pegasus.
+
+933
+01:22:52,901 --> 01:22:55,575
+Yah, sudah terlambat sekarang.
+
+934
+01:22:59,241 --> 01:23:00,345
+Bersikaplah wajar.
+
+935
+01:23:07,983 --> 01:23:09,018
+(Mendesah)
+
+936
+01:23:14,189 --> 01:23:16,328
+- Perdana Menteri, secara tradisional ...
+- Ada yang salah.
+
+937
+01:23:16,425 --> 01:23:18,996
+... China tidak menanggapi saran dengan baik ...
+
+938
+01:23:19,094 --> 01:23:20,767
+Tarik keluar larasnya.
+
+939
+01:23:23,432 --> 01:23:26,777
+Sekarang, Johnny, aku ingin kau membunuh Xiang Ping.
+
+940
+01:23:30,038 --> 01:23:31,881
+Ya Tuhan, tidak.
+
+941
+01:23:34,610 --> 01:23:36,021
+Dia sedang dikendalikan.
+
+942
+01:23:36,111 --> 01:23:37,556
+SEKRETARIS ASING: Oleh siapa?
+
+943
+01:23:38,180 --> 01:23:39,523
+TUCKER: Ambrose.
+
+944
+01:23:40,616 --> 01:23:41,993
+Tembak Xiang Ping!
+
+945
+01:23:46,622 --> 01:23:50,968
+Pikiran harus menguasai tubuh.
+
+946
+01:23:54,296 --> 01:23:56,139
+AMBROSE: Dia menolaknya.
+
+947
+01:23:57,466 --> 01:24:00,640
+Tangan kirinya melawan tangan kanan.
+
+948
+01:24:05,407 --> 01:24:06,977
+Ayolah, Johnny.
+
+949
+01:24:08,010 --> 01:24:09,489
+TUCKER: Jika saya dapat mengganggu frekuensi,
+
+950
+01:24:09,578 --> 01:24:11,524
+Saya bisa menghentikan Ambrose
+dari berkomunikasi dengannya.
+
+951
+01:24:11,813 --> 01:24:12,848
+(Mendengus)
+
+952
+01:24:28,997 --> 01:24:30,704
+Inggris, berdiri!
+
+953
+01:24:41,009 --> 01:24:42,181
+TUCKER: Ayo. Ayolah.
+
+954
+01:24:45,614 --> 01:24:47,389
+Dia akan mati dalam 50 detik, Pak.
+
+955
+01:24:50,185 --> 01:24:51,391
+Makanan!
+
+956
+01:24:52,187 --> 01:24:53,359
+Ayolah.
+
+957
+01:24:54,356 --> 01:24:56,131
+- Tarik pelatuknya!
+- TUCKER: Saya ikut.
+
+958
+01:24:56,358 --> 01:24:58,463
+(MUSIK DANCE BLARING)
+
+959
+01:25:13,408 --> 01:25:14,978
+(RADIO STATIC)
+
+960
+01:25:15,077 --> 01:25:16,147
+(MUSIK BERHENTI)
+
+961
+01:25:17,212 --> 01:25:19,158
+Dengarkan aku, ini Simon Ambrose,
+
+962
+01:25:19,247 --> 01:25:22,057
+<i> (ON INTERCOM) dan saya memesan Anda
+untuk menembak Xiang Ping! </i>
+
+963
+01:25:25,921 --> 01:25:27,059
+Sepuluh detik, Pak.
+
+964
+01:25:29,558 --> 01:25:30,764
+Api!
+
+965
+01:25:37,766 --> 01:25:38,836
+(DENGKUR)
+
+966
+01:25:41,503 --> 01:25:43,141
+Pergi pergi pergi.
+
+967
+01:25:43,238 --> 01:25:45,275
+Waktunya keluar dari sini.
+
+968
+01:25:49,745 --> 01:25:51,088
+Tahan tembakanmu!
+
+969
+01:25:52,080 --> 01:25:53,525
+Turun!
+
+970
+01:26:06,428 --> 01:26:08,203
+(BIP MONITOR JANTUNG)
+
+971
+01:26:19,107 --> 01:26:20,211
+Denyut nadinya menurun.
+
+972
+01:26:20,308 --> 01:26:21,719
+Jangan sampai kehilangan dia!
+
+973
+01:26:21,810 --> 01:26:23,289
+Ayo pak.
+
+974
+01:27:07,155 --> 01:27:12,434
+& Lt; i & gt; WANG: Buka kepala Anda, Inggris,
+dan kamu akan dilahirkan kembali. </i>
+
+975
+01:27:25,507 --> 01:27:27,111
+Hampir sampai.
+
+976
+01:27:55,871 --> 01:27:57,475
+Terima kasih, Kate.
+
+977
+01:27:57,572 --> 01:27:58,880
+Saya sedang lewat.
+
+978
+01:27:59,541 --> 01:28:00,918
+TUCKER: Pak.
+
+979
+01:28:01,042 --> 01:28:02,385
+Makanan!
+
+980
+01:28:03,645 --> 01:28:05,056
+Selamat datang kembali, Pak.
+
+981
+01:28:05,380 --> 01:28:06,450
+Terima kasih, Tucker.
+
+982
+01:28:06,548 --> 01:28:07,925
+Aku tidak akan menciummu, jika kamu tidak keberatan.
+
+983
+01:28:08,049 --> 01:28:09,722
+Nah, terserah.
+
+984
+01:28:13,722 --> 01:28:14,894
+Dimana Ambrose?
+
+985
+01:28:26,835 --> 01:28:28,439
+Inggris?
+
+986
+01:28:28,570 --> 01:28:30,777
+Pak. Apa yang kamu lakukan, tuan '?
+
+987
+01:28:30,906 --> 01:28:35,286
+Pedoman 17-5: Jangan pernah bertanya
+agen senior di bidangnya.
+
+988
+01:28:35,410 --> 01:28:36,616
+Tidak!
+
+989
+01:30:17,379 --> 01:30:20,360
+Ambrose 'kamu kotoran bintang lima.
+
+990
+01:30:20,515 --> 01:30:21,550
+(AMBROSE GRUNTS)
+
+991
+01:30:27,188 --> 01:30:29,099
+(KEDUA GRUNTING)
+
+992
+01:30:45,240 --> 01:30:47,379
+Bola lagi, Johnny.
+
+993
+01:30:56,217 --> 01:30:57,218
+Ooh.
+
+994
+01:30:59,087 --> 01:31:00,725
+Ada apa denganmu?
+
+995
+01:31:02,924 --> 01:31:03,959
+(Menguap)
+
+996
+01:31:21,309 --> 01:31:23,084
+(DENGKUR)
+
+997
+01:31:24,779 --> 01:31:26,417
+Semuanya sudah berakhir, Ambrose.
+
+998
+01:31:28,083 --> 01:31:32,623
+Anda bisa mengkhianati negara Anda,
+kamu bisa menipu temanmu,
+
+999
+01:31:32,754 --> 01:31:36,258
+tetapi Anda tidak bisa pergi
+dari Johnny English ...
+
+1000
+01:31:36,624 --> 01:31:37,659
+(TERIAKAN)
+
+1001
+01:31:40,328 --> 01:31:41,932
+(DENGKUR)
+
+1002
+01:31:52,674 --> 01:31:54,620
+Sampai jumpa, Johnny!
+
+1003
+01:31:56,678 --> 01:31:57,782
+(SUARA TEMBAKAN)
+
+1004
+01:32:00,982 --> 01:32:02,359
+D-7.
+
+1005
+01:32:03,284 --> 01:32:05,457
+Perisai antipeluru!
+
+1006
+01:32:07,022 --> 01:32:09,525
+Hei! Ini tidak bekerja!
+
+1007
+01:32:09,958 --> 01:32:11,995
+Ini T-2, Pak!
+
+1008
+01:32:12,127 --> 01:32:14,835
+- Apakah dia ... Oh, dia masih hidup!
+- Ini T-2!
+
+1009
+01:32:15,296 --> 01:32:17,503
+Tutup itu. Tutup ii!
+
+1010
+01:32:17,632 --> 01:32:19,305
+Hal bodoh!
+
+1011
+01:32:32,547 --> 01:32:34,026
+Oh, Johnny.
+
+1012
+01:32:39,654 --> 01:32:41,065
+T-2.
+
+1013
+01:32:44,993 --> 01:32:48,406
+Tucker, dasar anak pintar.
+
+1014
+01:33:08,850 --> 01:33:10,090
+PERDANA MENTERI:
+Saya tidak bisa lebih senang.
+
+1015
+01:33:10,185 --> 01:33:12,256
+Paymaster Vortex telah ditangkap,
+
+1016
+01:33:12,353 --> 01:33:16,199
+dan China telah mengungkapkan rasa terima kasihnya
+ke Inggris dan Layanan.
+
+1017
+01:33:17,692 --> 01:33:19,228
+Kami berhutang banyak pada bahasa Inggris.
+
+1018
+01:33:23,531 --> 01:33:26,910
+Nah, mengembalikan gelar ksatria
+adalah sikap yang sangat menyenangkan.
+
+1019
+01:33:27,035 --> 01:33:28,412
+Dan itu akan sangat berarti baginya.
+
+1020
+01:33:30,872 --> 01:33:32,909
+Yang Mulia akan segera bersamanya.
+
+1021
+01:34:01,569 --> 01:34:02,604
+(TERIAKAN)
+
+1022
+01:34:18,620 --> 01:34:20,759
+Kena kau! Kena kau.
+
+1023
+01:34:33,001 --> 01:34:34,344
+Kena kau!
+
+1024
+01:34:37,438 --> 01:34:40,647
+BAHASA INGGRIS: Hampir merasa muak,
+kamu sapi tua!
+
+1025
+01:34:40,708 --> 01:34:43,655
+Anda tidak akan kemana-mana! Pegasus!
+
+1026
+01:34:43,711 --> 01:34:44,815
+Inggris!
+
+1027
+01:34:44,879 --> 01:34:49,191
+Itu dia! Itu pembersih pembunuh!
+Akhirnya, aku mendapatkannya!
+
+1028
+01:34:51,719 --> 01:34:54,791
+Anda tidak pernah tahu kapan semuanya berakhir, bukan?
+
+1029
+01:34:54,856 --> 01:34:59,737
+Nah, sudah berakhir, selesai, selesai, selesai, berakhir!
+
+1030
+01:35:20,582 --> 01:35:22,255
+(PEMUTARAN LAGU LAMBAT)
+
+1031
+01:38:34,208 --> 01:38:36,017
+Saya tidak tahu bagaimana harus berterima kasih.
+
+1032
+01:38:36,077 --> 01:38:37,613
+Saya ingin dibawa pulang.
+
+1033
+01:38:39,013 --> 01:38:41,357
+Anggap saja sudah beres.
+
+1034
+01:38:42,013 --> 01:38:59,357
+ © anoXmous </ font>
+<font face = "Monotype Corsiva" color =
+
